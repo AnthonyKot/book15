@@ -3,7 +3,7 @@
 **Working title: *Sixty Years Later*.** Ten essays reading Stanisław Lem's *Summa
 Technologiae* (1964) from 2026: chapter by chapter, where he was right, wrong, right for
 the wrong reason, or asking a question that has since dissolved or is still open.
-Lem graded himself in "Twenty Years Later" (1974) and again in the 1990s; this book is
+Lem graded himself in "Twenty Years Later" (1982) and again in the 1990s; this book is
 the next grading, by a reader who has the things Lem only argued about.
 
 Precedence (inherited from book8/book12): this file → AGENT.md (reader, priority stack,
@@ -37,12 +37,12 @@ kind. Note for essay 4: he *did* see learning-from-correlation as the black box'
   `resources/text/summa.txt` (both gitignored; rebuild with `scripts/build-corpus.sh`).
   PDF page N == printed page N; the extraction is quotable and section-mapped.
 - **Corpus gap (recorded 2026-08-16):** the 2013 translation carries chapters 1–8 only.
-  Chapter 9, *Sztuka i technologia*, is absent, as is the 1974 afterword "Dwadzieścia
+  Chapter 9, *Sztuka i technologia*, is absent, as is the 1982 afterword "Dwadzieścia
   lat później" (quoted only in Zylinska's introduction). Essay 9 needs the Polish
   (Wydawnictwo Literackie, 4th exp. ed. 1984 or later) or the Russian (*Сумма
   технологии*, Мир 1968 / АСТ 2002). Until one is on disk, essay 9 quotes cannot be
   gated and the essay does not ship. **Open: user to supply a copy.**
-- **Secondary, Lem:** "Twenty Years Later" (1974), "Thirty Years Later" (1991),
+- **Secondary, Lem:** "Twenty Years Later" (written 1982, appended to the 4th ed.), "Thirty Years Later" (1991),
   *Dialogi* (1957), *Filozofia przypadku* (1968) — for how Lem himself re-scored.
 - **2026 side:** whatever the essay's claim needs — receipted per claim in
   `checks/claims-2026.tsv`. No claim about "what happened" rides on memory.
@@ -90,8 +90,8 @@ is a row.
 - Every 2026-side factual claim carries `<!-- CHECK: id -->` and a `claims-2026.tsv`
   row with a source. Ships only when the row is not `open`.
 - No numbers from memory. Dates, counts, model names, paper titles: source or cut.
-- The 1974/1991 self-grades: when Lem already conceded or doubled down, quote him, and
-  score 2026 against *that* Lem too. Never grade 1964-Lem on something 1974-Lem fixed
+- The 1982/1991 self-grades: when Lem already conceded or doubled down, quote him, and
+  score 2026 against *that* Lem too. Never grade 1964-Lem on something 1982-Lem fixed
   without saying so.
 - Essays are 1,800–3,200 words, on TEMPLATE.md.
 

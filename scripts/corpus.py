@@ -6,8 +6,12 @@ TXT = os.path.join(HERE, "..", "resources", "text", "summa.txt")
 
 def norm(s):
     s = s.replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"')
-    s = s.replace("—", "-").replace("–", "-").replace("­", "")
+    s = s.replace("—", " ").replace("–", " ").replace("­", "")
     s = re.sub(r"-\s*\n\s*", "", s)          # rejoin hyphenated line breaks
+    s = re.sub(r"\[[^\]]*\]", "", s)           # drop editorial [insertions]
+    s = re.sub(r"(?<=[A-Za-z,.;:!?)])\d{1,2}(?=\s|$|[.,;:])", "", s)  # footnote superscripts
+    s = s.replace("-", "")                       # hyphens: line-break hyphens are ambiguous
+    s = s.replace("'", "").replace('"', "")     # quote marks: nested single/double vary
     return re.sub(r"\s+", " ", s).strip().lower()
 
 def load():

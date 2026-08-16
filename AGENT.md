@@ -20,7 +20,7 @@ will check a claim if it looks too neat.
 
 ## Verdict rules
 - Use CONTEXT §4 vocabulary exactly. One verdict per row. Rows are specific + paged.
-- When Lem re-graded himself (1974/1991), score against the later Lem too and say so.
+- When Lem re-graded himself (1982/1991), score against the later Lem too and say so.
 - Distinguish *Lem said* from *Zylinska translated*; check the Polish term when the
   English is doing work (imitology, phantomatics, "intelectronics").
 - The "still open" section is not a dumping ground: each open item names what
