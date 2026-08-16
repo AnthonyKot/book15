@@ -1,0 +1,7 @@
+# essay	page	exact string as it appears in the 2013 Minnesota translation
+#
+# One row per Lem quotation in an essay. GATING: the corpus is a fixed edition
+# extracted from a fixed PDF, so a miss is the author's error, never drift.
+# Matching is whitespace/quote-mark-insensitive; the string must appear on the
+# cited printed page or the one after it (paragraphs cross page breaks).
+# Write rows with scripts/find.py — it prints the page you must cite.

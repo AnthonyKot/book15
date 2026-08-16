@@ -1,0 +1,6 @@
+# The Minnesota 2013 translation is in copyright and is not redistributed.
+# Rebuild the corpus from your own copy: scripts/build-corpus.sh /path/to/lem.pdf
+resources/*.pdf
+resources/text/
+__pycache__/
+drafts/reviews/*.raw.txt

@@ -1,0 +1,6 @@
+# essay	claim id	one-line 2026-side claim	source (URL or citation)	status (checked-by:date | open)
+#
+# The claims a reader will actually dispute are not Lem's — they are ours about
+# what happened after 1964. Every such claim carried in prose gets a row here and
+# a matching <!-- CHECK: id --> marker in the HTML. verify.sh cross-checks that
+# every marker has a row and every row a marker; it cannot check the claim.
