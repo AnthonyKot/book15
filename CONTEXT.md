@@ -143,3 +143,32 @@ count-sync gating, structure advisory. `scripts/find.py` writes the quote rows.
 - 2026-08-16 — repo created; corpus extracted (2013 tr., 383 pp); shape scaffolded;
   chapter-9 corpus gap recorded; no essays drafted. Next: pitch essay 4 or 6 first
   (the two with the strongest object-level material) as pilots.
+- 2026-08-16 — pitches for essays 4 and 6 (drafts/*.pitches.md); user picked 4-B
+  (electrocracy) and 6-A (the order came out backwards). Both drafted to TEMPLATE; 73 Lem
+  quotes gated green; 29 claim rows, 1 open (vr-use-mix, an absence claim). Corrections
+  while checking: (a) "Twenty Years Later" was written 1982, not 1974 (Zylinska p. 21);
+  (b) the thesis line claiming Lem had no notion of statistical learning was wrong —
+  pp. 117–120, 153–54 — rewritten; (c) verify.sh matching now ignores quote marks, em/en
+  dashes, hyphens, [insertions] and footnote superscripts, all of which produced false
+  misses on real quotes. Panel review of both essays launched.
+- 2026-08-16 (panel) — both pilots **BLOCKED** by the consolidated review (drafts/reviews/
+  04-codex.md, 06-codex.md; grok/agy raw alongside). Confirmed findings to act on:
+  **Essay 4:** (1) the p. 117 Economic Ruler is Lem's own reductio (p. 120), not a
+  prediction — the "wrong building" MISS misreads him; grade pp. 158–163 Coordinators
+  separately; (2) the contract-required miss (language as substrate, scale as method) is
+  absent; (3) RealPage is coordination, the reverse of Lem's rival homeostats — drop the HIT;
+  (4) ledger uses compound/invented verdicts — one exact §4 word per row; (5) a paper about
+  gradual disempowerment is not evidence it happened → OPEN; (6) Robodebt/toeslagen are rule
+  systems, not learning Coordinators — narrow the claim; (7) alignment faking does not
+  refute p. 107 — OPEN; (8) Facebook MSI supports the p. 121 untouchable-parameter claim,
+  not constitutive opacity — move it. **Essay 6:** (1) Lem's p. 206 ranking is difficulty,
+  not arrival order, and both devices are full-sensorium phantomats — text chatbots are not
+  the "human-producing" one; the MISS is unsupported → reframe as a labelled analogy, verdict
+  OPEN/EARLY; (2) "better than us" claims Lem denies persuasion; p. 217 says the opposite —
+  rebuild or remove; (3) essay skips pp. 215–236 (cerebromatics, personality/copying) which
+  the contract requires — add rows or narrow the contract; (4) same ledger-vocabulary
+  violations; (5) EyePhone/DataGlove cannot be a 1982 update (devices are late-1980s;
+  Zylinska pp. 20–21 pools 1982 and 1991) — fix; "he did not point at the other machine" is
+  unverifiable without the afterwords; (6) close the open vr-use-mix row before shipping.
+  Standing lesson for AGENT.md: a claim being *reported* (paper, lawsuit) is not the claim
+  being *true*; and Lem's reductios must be scored as arguments, not forecasts.
