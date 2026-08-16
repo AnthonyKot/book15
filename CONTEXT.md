@@ -23,9 +23,12 @@ the reverse (his cosmology detail vs the actual Fermi debate). The verdict vocab
 (§4) exists so the essays never collapse into "prophet / not prophet."
 
 The book's own claim: Lem's *misses* are the more instructive half. Where he was wrong
-he was wrong in a specific, dated way (1960s cybernetics, information theory as the master
-science, no notion that *statistics + data* rather than *design* would produce
-intelligence) — and 2026's own blind spots are probably of the same kind.
+he was wrong in a specific, dated way (1960s cybernetics; information theory as the master
+science; colloids and ciliates rather than silicon as the substrate of the black box; the
+"human-producing" machine judged "incomparably more difficult" than the "travel" one,
+p. 206 — the order 2026 actually got) — and 2026's own blind spots are probably of the same
+kind. Note for essay 4: he *did* see learning-from-correlation as the black box's mechanism
+(pp. 117–120, 153–54); the miss is language as substrate and scale as method, not statistics.
 
 ## 2. Corpus
 
