@@ -271,4 +271,28 @@ count-sync gating, structure advisory. `scripts/find.py` writes the quote rows.
   (07-grok.md is short, 07-agy.md full) and no codex pass has been run on 7 yet.
   **Resume here:** read 05-codex.md, apply, then run scripts/review.sh 07 (all three now
   available) and act on that. verify.sh PASS at the pause: 181 quotes, 77 claims, 0 open.
+- 2026-08-17 (panel on 5 and 7; codex back) — codex BLOCKed both; both rebuilt.
+  **Essay 5:** the thesis was wrong. p. 176 says the Designer "is not a narrow pragmatist…
+  knows everything about his bricks" — he drops the metaphysics and keeps the materials
+  science, while 2026 dropped both. Central row is now RIGHT ANSWER, WRONG REASON; the
+  ladder MISS and the benchmark row left the ledger (kept as labelled prose, since the
+  transposition is the essay's, not Lem's); the believing-machines programme became the
+  RIGHT QUESTION, WRONG ANSWER; tissue brain and talent matrices → OPEN (no-live-path
+  unproven; the societies *called for* a moratorium); hallucination → RIGHT ANSWER, WRONG
+  REASON; the GraphCast row was cut entirely (a performance result cannot pay a
+  modelling-relation claim); later-Lem's self-grade acknowledged via Zylinska p. 21;
+  Konstruktor translation noted; nine unregistered quotations added at their true pages.
+  **Essay 7:** retitled "What the sieve is wired to". Both MISS rows failed §4 and are gone
+  — Lem rejected *maximum random* diversity on p. 261, not filtering, and both he and Ashby
+  put selection at the centre, so "the part neither thought was hard" was false. The essay's
+  negative is now p. 251: stay with formal symbol-pushing and "we will be facing an
+  information crisis", the way out being the egg's non-formal route — and the automation
+  came from inside the formalism (RIGHT QUESTION, WRONG ANSWER). Hypothesis-formation row
+  re-anchored from p. 239 (a report of Amarel's existing work) to his own p. 243 device;
+  the A-Lab sieve HIT folded into the problem-level row about what the selector is wired to;
+  carriers and the theories-from-theories climb → OPEN; deluge row → OPEN (retractions are
+  paper mills, not automated discovery); combinatorial wall re-receipted with intrinsic
+  dimension (Pope et al. 2021); 1964 baseline corrected — laboratory automation existed
+  (AutoAnalyzer 1957, Robot Chemist 1959), it just did not form hypotheses. verify.sh PASS:
+  196 quotes, 78 claims, 0 open.
 
