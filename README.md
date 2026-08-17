@@ -1,5 +1,7 @@
 # Sixty Years Later
 
+**Read it: <https://anthonykot.github.io/book15/>**
+
 Ten essays reading Stanisław Lem's *Summa Technologiae* (1964) from 2026 — chapter by
 chapter, where he was right, wrong, right for the wrong reason, or asking a question that is
 still open. Fifteenth in a series built the same way (static HTML, a decision record, a

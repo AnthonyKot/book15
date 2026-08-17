@@ -172,3 +172,4 @@ count-sync gating, structure advisory. `scripts/find.py` writes the quote rows.
   unverifiable without the afterwords; (6) close the open vr-use-mix row before shipping.
   Standing lesson for AGENT.md: a claim being *reported* (paper, lawsuit) is not the claim
   being *true*; and Lem's reductios must be scored as arguments, not forecasts.
+- 2026-08-17 — published: https://github.com/AnthonyKot/book15 → https://anthonykot.github.io/book15/ (Pages from main, root). Both pilots are live in draft state pending the panel revisions above.
