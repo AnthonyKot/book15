@@ -240,4 +240,23 @@ count-sync gating, structure advisory. `scripts/find.py` writes the quote rows.
   PASS: 118 quotes, 51 claims, 0 open. Pushed as revision 3. Next panel pass on either
   essay: after codex resets, one consolidated pass; do not iterate further without new
   evidence — remaining findings are judgment calls, logged here.
+- 2026-08-17 (essays 5 and 7 drafted) — pitches banked in drafts/05.pitches.md and
+  07.pitches.md; user picked **5-A "Real means useful"** and **7-B "Information farming"**.
+  **Essay 5** (chapters/05-real-means-useful.html): the Designer's pragmatism (pp. 176–179)
+  as the working epistemology of 2026 ML; includes ch. 4's "Belief and Information"
+  (pp. 124–141) per the amended contract. Ledger 10 rows; MISS on p. 183 ("which rung
+  corresponds to the mountain makes no sense") against interpretability results;
+  RIGHT QUESTION, WRONG ANSWER on "resolve it by experiment" (p. 179) vs the benchmark
+  evaluation crisis; HITs on the side entrance (AlphaFold), the lossy model beating the
+  faithful one (GraphCast), belief-as-forced-guessing (p. 125 vs hallucination).
+  **Essay 7** (chapters/07-information-farming.html, "The farm and the sieve"): his design
+  vs Ashby's, which he explicitly declined on p. 261 — two MISS rows (the polymer carriers;
+  the bet against filtering) with FunSearch/GNoME as the receipt that the filter won; HITs
+  on automated hypothesis formation (Adam 2009 → AI Scientist 2026), the sieve coupled to a
+  phenomenon (A-Lab), the combinatorial wall *as qualified* (p. 239), and selection as the
+  crux; RIGHT QUESTION, WRONG ANSWER on automating production as the answer to the deluge
+  (record retractions 2023). Linguistic engineering covered (EARLY row) — it is the best
+  answer in the book to essay 4's language omission; transcendence/cosmogonics treated as
+  the speculation Lem labels, constructor side left to Still open. verify.sh PASS: 181
+  quotes, 72 claims, 0 open. Panel not yet run on 5 and 7 (codex quota resets 2026-08-20).
 
