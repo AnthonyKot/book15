@@ -25,6 +25,16 @@ will check a claim if it looks too neat.
   English is doing work (imitology, phantomatics, "intelectronics").
 - The "still open" section is not a dumping ground: each open item names what
   evidence would close it.
+- Score Lem's *arguments* as arguments. When he builds a case to knock it down (he
+  says "reductio" on p. 120; the Superphantomat p. 207–8 is another), the object-level
+  row is not "he predicted X"; the row is the mechanism inside the reductio, at problem
+  level. Grade his own-voice forecasts (e.g. Coordinators, p. 158) separately.
+- A thing being *reported* is not the thing being *true*: a paper that argues a
+  scenario, a lawsuit that alleges a practice, a demo that shows a capability — each
+  receipts exactly what it is (a proposal, an allegation, a demo) and no more. HIT needs
+  the event; otherwise OPEN or EARLY with the receipt described honestly.
+- Rankings are not chronologies; a "harder" is not a "later". Read the comparison
+  Lem actually made before scoring what happened to it (panel lesson, essay 6).
 
 ## Pitch before writing (the guinea-pig gate)
 Never drafted cold. For each essay present the user 2–4 candidate angles, ≤4 sentences

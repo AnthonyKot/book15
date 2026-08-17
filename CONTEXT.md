@@ -173,3 +173,23 @@ count-sync gating, structure advisory. `scripts/find.py` writes the quote rows.
   Standing lesson for AGENT.md: a claim being *reported* (paper, lawsuit) is not the claim
   being *true*; and Lem's reductios must be scored as arguments, not forecasts.
 - 2026-08-17 — published: https://github.com/AnthonyKot/book15 → https://anthonykot.github.io/book15/ (Pages from main, root). Both pilots are live in draft state pending the panel revisions above.
+- 2026-08-17 (revision) — both pilots revised against the panel findings. **Essay 4:**
+  p. 117 Ruler now presented as Lem's reductio (p. 120 quoted); object-level rows are the
+  black-box possibility (HIT), how it gets built — ciliates/colloids/programmed homeostat
+  vs training on text at scale (the contract MISS), Amazon lay-offs (HIT), rival
+  homeostats vs Calvano 2020 collusion + RealPage allegation (RIGHT QUESTION, WRONG
+  ANSWER), Coordinators at country/continent scale (MISS, Cybersyn sole attempt); coin
+  toss, cunning, well-behaved child, prescription all OPEN; Facebook moved to "cannot
+  expect it to inform us" + untouchable parameters; Goodhart/Strathern, Zylinska's note,
+  "may be enough", antinomy-not-recantation, EU art. 14 high-risk, "inside firms" fixed.
+  **Essay 6:** retitled "The cheap channel" (file 06-the-cheap-channel.html); p. 206
+  ranking now OPEN with the chatbot material as a labelled analogy; pp. 215–236 covered
+  (cerebromatics, persuasion p. 217, teletaxy, telegraphing/copying, hibernation) with
+  rows on the blind (EARLY, Orion), remote-I (RA/WR, Lindbergh 2001), freezing (EARLY,
+  Han 2023), copy≠original (OPEN, Parfit 1984), only-probable (HIT, Bostrom 2003); 1964
+  baseline now Telesphere 1960 / Headsight 1961; afterwords cited via Zylinska only, not
+  scored; vr-use-mix closed as a qualitative claim; IDC row corrected (AR/VR 2021 peak;
+  VR/MR down in 2025 while smart glasses grew). verify.sh PASS: 104 quotes, 44 claims,
+  0 open. AGENT.md gained three verdict rules (reductios, reported≠true, ranking≠order).
+  Second panel pass launched on both.
+
