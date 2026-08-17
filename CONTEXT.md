@@ -24,11 +24,12 @@ the reverse (his cosmology detail vs the actual Fermi debate). The verdict vocab
 
 The book's own claim: Lem's *misses* are the more instructive half. Where he was wrong
 he was wrong in a specific, dated way (1960s cybernetics; information theory as the master
-science; colloids and ciliates rather than silicon as the substrate of the black box; the
-"human-producing" machine judged "incomparably more difficult" than the "travel" one,
-p. 206 — the order 2026 actually got) — and 2026's own blind spots are probably of the same
-kind. Note for essay 4: he *did* see learning-from-correlation as the black box's mechanism
-(pp. 117–120, 153–54); the miss is language as substrate and scale as method, not statistics.
+science; the phantomat's application mix hedged both ways, pp. 214–215; a later self-grade
+that took EyePhone/DataGlove for phantomatics) — and 2026's own blind spots are probably of
+the same kind. Note for essay 4: he *did* see learning-from-correlation as the black box's
+mechanism (pp. 117–120, 153–54), and his ciliates/colloids on p. 109 are hedged illustrations
+of a method, not a substrate forecast; the real gap is an *omission* — training on text at
+scale as the route to competence — recorded in prose, not manufactured into a MISS row.
 
 ## 2. Corpus
 
@@ -115,9 +116,12 @@ Each essay has one exclusive job; the pitch (AGENT.md) fixes it before drafting.
   intelligence amplifiers, "the morality of homeostats", electrocracy, "beliefs of
   electric brains" — against LLMs, alignment, interpretability, AI-in-government. This
   essay must not become a victory lap; the ledger will show what he did *not* foresee
-  (learning from data rather than design; language as the substrate).
+  (training on text at scale as the route to competence — an omission, stated in prose,
+  not forced into a MISS row). Scope: pp. 93–124 and 146–163; "The Beliefs of Electric
+  Brains" (pp. 124–141) is handed to essay 5.
 - **5 Prolegomena.** Job: imitology and "the silence of the designer" — building things
-  that work without a theory of why. Test: modern ML *is* this. Where the argument
+  that work without a theory of why; also ch. 4's "The Beliefs of Electric Brains"
+  (pp. 124–141), belief/information in homeostats, handed over from essay 4. Test: modern ML *is* this. Where the argument
   about restraint ("Scylla and Charybdis") lands in 2026.
 - **6 Phantomology.** Job: peripheral vs central phantomatics, the indistinguishability
   test, cerebromatics, personality-and-information. Test: VR as consumer product (flat),
@@ -216,4 +220,24 @@ count-sync gating, structure advisory. `scripts/find.py` writes the quote rows.
   Gauthier 2026 (X feed); Neuralink "investigational"; kidney "reproducible", not
   "first"; bandwidth numbers cut; still-open #1 closure by Lem's definition. verify.sh
   PASS: 113 quotes, 50 claims, 0 open. Round 3 panel launched; pushed as revision 2.
+- 2026-08-17 (panel round 3 → revision 3) — codex BLOCK on 4 (drafts/reviews/*.r3.md) with a
+  seven-item minimum set, all applied: personality row → RIGHT QUESTION, WRONG ANSWER with
+  Lem's Leiber exception restored; spec-gaming split (objective-met-by-unchosen-route HIT;
+  braked-then-reroute OPEN, unreceipted); toeslagen split from Robodebt (learning model,
+  human-reviewed); megabyte bomb re-receipted on researcher headcount (UNESCO 2021: +13.7%
+  2014–18, far below his ten-year doubling; barrier absent → OPEN); perceptron row ends at
+  faces/text; advisory-body row → OPEN; "model the brake", "Beer's box", "cheapest thing to
+  grow from text", "to the month" cut; contracts amended (essay 4 scope pp. 93–124, 146–163;
+  "Beliefs of Electric Brains" → essay 5); CONTEXT thesis line no longer calls ciliates a
+  substrate miss. Codex hit its usage cap (resets 2026-08-20) before consolidating 6, so
+  round-3 grok+agy findings on 6 were adjudicated by me: cerebromatics HIT → OPEN with
+  "through such maneuvers" scope; later-Lem MISS → OPEN (Zylinska's paraphrase is thin);
+  freezing EARLY → MISS with "We can expect" restored (organ-scale path only); "unwarned"
+  and "already lost" cut (judges knew); one-way row re-receipted with a one-way fake
+  (Pentagon image 2023; Arup was a live call); Parfit split into two rows (copy≠original
+  HIT; trip out of question OPEN); Guess/Gauthier described exactly; chess cut. Rejected:
+  agy's claim that Jones & Bergen 2025 / Gauthier 2026 are invented (both verified). verify
+  PASS: 118 quotes, 51 claims, 0 open. Pushed as revision 3. Next panel pass on either
+  essay: after codex resets, one consolidated pass; do not iterate further without new
+  evidence — remaining findings are judgment calls, logged here.
 
