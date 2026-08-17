@@ -192,4 +192,28 @@ count-sync gating, structure advisory. `scripts/find.py` writes the quote rows.
   VR/MR down in 2025 while smart glasses grew). verify.sh PASS: 104 quotes, 44 claims,
   0 open. AGENT.md gained three verdict rules (reductios, reported≠true, ranking≠order).
   Second panel pass launched on both.
+- 2026-08-17 (panel round 2 → revision 2) — codex BLOCKED both again, on narrower grounds
+  (drafts/reviews/*.r2.md). Acted on: **4:** EU AI Act art. 14 application postponed to
+  2027-12-02 by Reg. 2026/1744 (real-world fact the register had missed) — brake now
+  "on the statute book, untested"; construction row replaced (the substrate point is an
+  *omission*, stated in prose, not a MISS row); new object rows: p. 110 method HIT,
+  perceptrons p. 153 HIT, "robots with quasi-human personalities unlikely" p. 158 MISS,
+  Coordinators OPEN (absence claim cannot pay MISS), megabyte bomb pp. 99–100 OPEN
+  (Bornmann & Mutz 2015; window runs to 2034); Amazon → RIGHT ANSWER, WRONG REASON;
+  Facebook opacity row cut, Facebook pays only the untouchable-parameter row (force
+  clause dropped); rivals row → problem level, Calvano labelled simulated, RealPage
+  updated to the Nov 2025 proposed settlement; "new strategy" clause unreceipted → cut
+  from graded claim; "without new ideas", "most documented harm", ownership claim,
+  Medicare-as-forecast, "steel mill's descendant" all cut; 1964 baseline receipted;
+  "Beliefs of Electric Brains" explicitly handed to essay 5. **6:** frame now says the
+  text-channel transposition is the essay's, not Lem's; entertainment MISS → OPEN (hedged
+  both ways, pp. 214–215); the MISS is now later-Lem's self-grade via Zylinska p. 21;
+  two RIGHT QUESTION, WRONG ANSWER rows (cost model; one-way media as art vs deepfakes);
+  Bostrom demoted to cousin, HIT paid by Chalmers 2022; teletaxy → EARLY on BCI
+  read/write receipts (Hochberg 2012, Flesher 2021), latency point in prose only;
+  phantomatics proper → OPEN; neurotics row cut to prose ("reported"); cerebromatics
+  HIT row added; central phantomatics in said + still-open; Guess 2023 balanced with
+  Gauthier 2026 (X feed); Neuralink "investigational"; kidney "reproducible", not
+  "first"; bandwidth numbers cut; still-open #1 closure by Lem's definition. verify.sh
+  PASS: 113 quotes, 50 claims, 0 open. Round 3 panel launched; pushed as revision 2.
 
