@@ -117,7 +117,15 @@ Two sentences later (p. 192): “It was not our intention to analyze man’s aut
 ### 9. 2026 claims I would challenge (marked or not)
 
 - **`monosemanticity-2024` / prose:** “sparse autoencoders pull millions of features… that correspond to nameable things — cities, people, code bugs.” Templeton et al. extracted large SAE dictionaries from Claude 3 Sonnet; a *subset* of features are clearly interpretable; clamping was shown on specific features (e.g. the Golden Gate Bridge case in the related work). “Millions… that correspond to nameable things” implies the dictionary is a catalogue of names. The TSV row repeats the overclaim.
-- **`scaling-laws-lready pointed at synthetic biology; 1964 is being graded as if he hadn’t
+- **`scaling-laws-2020` / prose:** “capability tracks data, parameters and compute along a smooth curve.” Kaplan et al. 2020 fit *loss*, not capability. The slide is the popular one and is still a slide.
+- **`graphcast-2023`:** “leading physics-based forecast system” — the paper’s comparison is ECMWF HRES, the leading *deterministic* operational system.
+- **`alphafold-nobel-2024` / prose:** “its authors took a Nobel Prize.” Baker shared the 2024 Chemistry prize for computational protein *design*; he is not an AlphaFold author. Hassabis and Jumper did.
+- **Prose, unmarked as such:** “the default working method of a field”; “the weakest joint in the field”; “never needed to read Lem”; “the rungs do map”; “the gap is not a matter of time”; “institutional.”
+- **Prose still inflates AlphaFold** as “the looser version of the same move” after the ledger correctly moved the side-entrance `HIT` to Gibson 2010. Prediction is not synthesis. Cut or label as analogy.
+
+---
+
+### 10. Later Lem already pointed at synthetic biology; 1964 is being graded as if he hadn’t
 
 **Location:** Object-level genome `HIT` (p. 191 / Gibson 2010). No 1982/1991 sentence in the essay.
 

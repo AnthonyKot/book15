@@ -259,4 +259,16 @@ count-sync gating, structure advisory. `scripts/find.py` writes the quote rows.
   answer in the book to essay 4's language omission; transcendence/cosmogonics treated as
   the speculation Lem labels, constructor side left to Still open. verify.sh PASS: 181
   quotes, 72 claims, 0 open. Panel not yet run on 5 and 7 (codex quota resets 2026-08-20).
+- 2026-08-17 (paused mid-review) — essay 5 revised once against agy's round-1 report
+  (see commit "Essay 5: fixes from agy round 1"): side-entrance row re-receipted with the
+  literal case (synthetic genome, 2010), new object rows for the tissue brain (EARLY,
+  DishBrain 2022) and talent matrices (MISS — selection is not embedding), GraphCast row
+  rephrased, ladder MISS now labels its transposition, benchmark row → OPEN, 1964 baseline
+  corrected and given its own claim row; two exact-page fixes (phantomological generator
+  p. 184, "to prove belief is to destroy it" p. 286). grok's essay-5 run died at its turn
+  limit with no findings. **Codex is working again** and has consolidated essay 5 —
+  drafts/reviews/05-codex.md, NOT YET ACTED ON. Essay 7's grok+agy reports exist
+  (07-grok.md is short, 07-agy.md full) and no codex pass has been run on 7 yet.
+  **Resume here:** read 05-codex.md, apply, then run scripts/review.sh 07 (all three now
+  available) and act on that. verify.sh PASS at the pause: 181 quotes, 77 claims, 0 open.
 
