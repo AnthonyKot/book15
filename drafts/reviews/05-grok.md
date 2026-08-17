@@ -1,152 +1,111 @@
-# Review findings — Essay 5, `chapters/05-real-means-useful.html`
+I'll start by reading the review criteria and the essay, then check quotes against the Lem corpus.Next I’ll verify quotes against the corpus, pull the 2026 claim rows, and read the review checklist plus prior essay-5 reviews.The rebuilt essay is the one under review. I’ll gate the quotes, then check the 2026 claims and ledger verdicts.I’ll pull the cited Lem pages and run the quotes through the corpus so I can check accuracy, not just page numbers.# Essay 5 review — findings only
 
-Ranked by severity. Findings only. Quotes checked with `scripts/find.py` against the 2013 corpus. Claims checked against `checks/claims-2026.tsv` (`claims.py`: 5 markers with no row).
-
----
-
-### 1. The ladder `MISS` grades the essay's transposition, then the prose treats it as a direct falsification
-
-**Location:** Problem-level row: “his examples are mathematics and a photograph, this essay applies the rule to a learned model” → `MISS`. “Where he was worst”: “2026 has falsified it in the most direct way available.” Prose: “If the rungs corresponded to nothing, none of that could work.”
-
-**Problem:** Three faults.
-
-(a) *Misreading.* Pages 182–183 are about whether a *mathematical theory of nature* must be isomorphic to the phenomenon (the classical “mathematical character of Nature,” Jeans/Eddington/Einstein). The ranks are mathematical symbols; the mountain is the physical world. Two paragraphs later he says a phot# Review findings — Essay 5, `chapters/05-real-means-useful.html`
-
-Ranked by severity. Findings only. Quotes checked with `scripts/find.py` against the 2013 corpus. Claims checked against `checks/claims-2026.tsv` (`claims.py`: 5 markers with no row).
+Ranked by severity. Quotes are from `chapters/05-real-means-useful.html`. Corpus checks via `scripts/find.py`.
 
 ---
 
-### 1. The ladder `MISS` grades the essay's transposition, then the prose treats it as a direct falsification
+### 1. The competence HIT is a misreading of p. 176, and it cancels the Designer row
 
-**Location:** Problem-level row: “his examples are mathematics and a photograph, this essay applies the rule to a learned model” → `MISS`. “Where he was worst”: “2026 has falsified it in the most direct way available.” Prose: “If the rungs corresponded to nothing, none of that could work.”
+**Location:** ledger, problem level — “You can act competently without a theory of why the thing works (pp. 176–179)” / `HIT`. Same claim in the lede: “The builders who arrived dropped both.”
 
-**Problem:** Three faults.
+**Problem:** Lem’s sentence on those pages is not that claim. p. 176: the Designer “is not a narrow pragmatist, like a builder who is constructing his house from bricks, uninterested in where these bricks came from and what they are.” He “knows everything about his bricks—except for what they look like when no one is looking at them.” The thing given up is the observer-independent residue, not materials knowledge. “We know far more about the fact that it is possible to act than about how it happens” is immediately fenced by that clause.
 
-(a) *Misreading.* Pages 182–183 are about whether a *mathematical theory of nature* must be isomorphic to the phenomenon (the classical “mathematical character of Nature,” Jeans/Eddington/Einstein). The ranks are mathematical symbols; the mountain is the physical world. Two paragraphs later he says a photograph is “true as a whole” even though silver-bromide grains do not map onto slope, and that a theory “will be true as a whole.” He did not say the rungs correspond to nothing. He said asking which-rung-which-part is the wrong *truth-criterion* for a tool. Othello-GPT and SAE features ask whether a *constructed artifact* has decodable internals. That is a different question — and one his Designer would send to experiment (p. 179), not declare malformed.
+The 2026 cell (Zhang 2017: nets fit random labels; Kaplan 2020: loss scales) is the builder Lem excluded: ship it, no account of the bricks. The previous row already scores that gap as `RIGHT ANSWER, WRONG REASON`. This row then awards `HIT` for the same practice under a paraphrase Lem did not write.
 
-(b) *Verdict inflation.* The ledger now *labels* the move as the essay’s application. `MISS` is for a thing he described that did not happen and has no live path. A philosophical prohibition, analogically extended, is not that. The honest word for “we applied his rule to a new object and the rule failed” is `RIGHT QUESTION, WRONG ANSWER` if the dilemma is live, or `OPEN` if the application is theirs.
-
-(c) *Internal contradiction.* The row admits the transposition; the worst-paragraph retracts the admission.
-
-**Fix:** Quote the isomorphism contrast and the “true as a whole” clause. If the row stays, score the *application* as `RIGHT QUESTION, WRONG ANSWER` or `OPEN`, and make the prose match the label. Do not let this be the chapter’s load-bearing miss.
+**Fix:** Delete the row. If a second problem-level row is needed, quote p. 176 verbatim (“possible to act” / “how it happens”) and do not pay it with Zhang/scaling — those receipts belong only to the bricks-gap row, and that row cannot stay `RIGHT ANSWER, WRONG REASON` while this one is `HIT`.
 
 ---
 
-### 2. The Designer/`Sutton` `HIT` identifies Lem’s figure with the bricklayer he distinguished himself from
+### 2. Designer row: compound claim, inflated verdict
 
-**Location:** Lede: “the default working method of a field that builds things it cannot explain.” What happened: “The Designer won… That is restraint at the level of design, restated by someone who had never needed to read Lem.” Problem-level row: `"'real' means the same as 'useful'"` + “build without waiting for the theory” → Sutton 2019 → `HIT`.
+**Location:** “The Designer: `"'real' means the same as 'useful'"` (p. 177), but `"not a narrow pragmatist… knows everything about his bricks"` (p. 176)” / `RIGHT ANSWER, WRONG REASON`. Happened: “Half the Designer arrived.”
 
-**Problem:** Page 176, immediately before the bricks sentence the essay quotes: “The designer is not a narrow pragmatist, like a builder who is constructing his house from bricks, uninterested in where these bricks came from and what they are, as long as the house gets built. The designer knows everything about his bricks—except for what they look like when no one is looking at them.” Sutton’s lesson is to *stop* putting in human understanding of the domain and scale general methods. That is the bricklayer. The Designer’s pragmatism is about unobservables and interpretations of one reality, not a forecast that compute-plus-search beats feature engineering.
+**Problem:** §4: one specific claim, one verdict. The row packs the half he got (usefulness as the working criterion) with the half he specified and did not get (know the bricks). `RIGHT ANSWER, WRONG REASON` requires that the outcome match. The outcome that arrived is the figure he contrasted with the Designer. “Where he was worst” already says this; the ledger still credits a right answer.
 
-The next problem-level row (“You can act competently without a theory of why the thing works”) already receipts Zhang 2017 + scaling. Two `HIT`s for one claim, the first of them pointed at the wrong man.
+He also did not forecast a professional type. The Designer is a methodological persona for navigating Scylla/Charybdis, not a prediction that ML labs would adopt pragmatism. Scoring “the Designer arrived” treats a stance as an event.
 
-Zylinska (intro) flags that *Konstruktor* was rendered “Designer” and asks the reader to keep the engineering sense. The English word is doing the title’s work and is never noted.
-
-**Fix:** Quote the “not a narrow pragmatist” sentence. Pay Sutton, if at all, as a cousin of the *silence* (dropping definitive questions), not as the Designer. Collapse the two problem-level rows. Record *Konstruktor*.
+**Fix:** Split. (a) Dropping definitive questions / real = useful as working method — score that claim alone (`HIT` only if you can show the method, not a cousin slogan). (b) “Knows everything about his bricks” — `MISS` or `OPEN` (interpretability is an attempt, not the arrival). Do not let `WRONG REASON` launder the failed half.
 
 ---
 
-### 3. GraphCast still pays a modelling-relation claim as a forecast-skill contest
+### 3. Believing-machines `RIGHT QUESTION, WRONG ANSWER` slides the question and treats “not built” as “wrong”
 
-**Location:** Object-level row: “Modelling must ignore variables; adding them does not converge the model on its object but makes it ‘move further away… within a range of others’ (pp. 186–187)” → learned weather model “outperformed” HRES → `HIT`. Prose: “His claim that a model earns its keep by *not* tracking the variables.”
+**Location:** ledger — `"'Believing machines': build homeostats with unprogrammed brains, vary body and world, and read off the metaphysics each grows, 'to help us discover the general principles' (pp. 138–140)"` / `RIGHT QUESTION, WRONG ANSWER`. 2026 cell paid by `othello-2023` and `monosemanticity-2024`.
 
-**Problem:** The p. 187 sentence is about *structural* divergence: add a memory bank and a random-number generator to an electric brain so I/O looks more like a living brain, and the *structure* moves further from the original. He did not say a lossy model will *outpredict* a first-principles one. “Earns its keep by not tracking the variables” is the essay’s sentence, not his.
+**Problem:** The quoted purpose on p. 138 is “the general principles that govern the way in which **metaphysical** models of the world come into being” (soul, compensation for a mortal body, inference to a Designer from order — pp. 138–140). The ledger shortens this to “the general principles,” then the 2026 cell restates it as “how a system comes by its picture of the world.” An Othello-board probe and a sparse-autoencoder feature dictionary do not test the growth of metaphysics from a blank-slate homeostat in a constructed world.
 
-The row sits in the object-level block. The Lem side is a general modelling principle; the receipt is a 2023 skill score. That is the layer mix AGENT forbids.
+`RIGHT QUESTION, WRONG ANSWER` means the dilemma is live and **his resolution is not**. Nobody ran the experiment. An unused method is not a wrong answer. Interpretability of models trained on human text is a different programme, not a refutation.
 
-GraphCast is also compared to ECMWF *HRES* (deterministic), not to the leading operational system as such.
-
-**Fix:** Move to problem level. Score only what he said (simplification is required; adding apparatus does not produce overall convergence). If GraphCast stays, the verdict is `RIGHT ANSWER, WRONG REASON` or a labelled cousin, and the 2026 cell must say HRES.
+**Fix:** Object-level `OPEN` (not built; nothing in the receipts rules it out). If a problem-level row is kept, the Lem cell must stay on *metaphysical* models, and the 2026 cell cannot be Othello/SAE. Those markers do not pay this claim.
 
 ---
 
-### 4. The belief `HIT` is the outcome with the wrong mechanism
+### 4. The ladder is still graded, after being removed from the ledger
 
-**Location:** Prose: “formally similar… The machine believes because we score it like a student.” Problem-level row: p. 125 “must show ‘belief’…” → Kalai et al. 2025 → `HIT`.
+**Location:** said — “And then the sentence this essay will have to grade:” + p. 183 (rungs / mountain / “we must not ask whether the ladder is ‘true’”). Happened: “Apply the rule anyway to the machines we build, as this essay does, and it fails” (Othello + SAE). Still open #4: “in a learned model some do.”
 
-**Problem:** Lem’s homeostat treats incomplete information as complete because *not acting is death* (p. 125: “Refraining from action would mean stopping life processes”). The OpenAI paper argues models guess because *an abstention scores zero on exams*. The essay’s own prose states the mechanism difference and then the ledger awards `HIT`. CONTEXT: a paper that argues a mechanism receipts the argument, not the identity of the two mechanisms. `HIT` needs the thing as described.
+**Problem:** pp. 182–183 are about isomorphism between mathematical symbols and nature (and a photograph’s grain). Lem says the ladder can still give height and slope, and that a theory is “true as a whole.” He never said the rungs correspond to nothing, and he did not describe a learned model. The essay admits the transposition is its own, then declares the rule a failure. That is grading 1964-Lem for a claim he did not make. Promising a grade in said and then keeping the verdict only in prose is worse than a ledger `MISS`: the reader still receives the falsification, without a verdict they can contest.
 
-**Fix:** `RIGHT ANSWER, WRONG REASON`. Keep the formal parallel in prose.
-
----
-
-### 5. Talent-matrices `MISS` overclaims “no live path,” and the chapter hands the object to essay 8
-
-**Location:** Object-level row: mass-produced talent matrices, traits “embedded into the genotype of any egg” (p. 192) → `MISS`. Prose: “the gap is not a matter of time.” Worst paragraph: “the talent matrices are the chapter’s flat miss.”
-
-**Problem:** `MISS` requires that it did not happen *and there is no live path*. The receipts are embryo *selection* and a 2025 society call to *reaffirm a moratorium* (ISCT/ASGCT/ARM, March–May 2025 — a statement, not a physical barrier). Multiplex germline editing is a discussed route; somatic editing already writes single-gene traits. A brake is not an absent path.
-
-He also hedges the claim: the embedding is “on the basis of our comprehensive knowledge of the ‘genetic codes’ that enact particular ‘talents.’” We do not have that knowledge. That is an unmet condition, not a falsified unconditional forecast.
-
-Two sentences later (p. 192): “It was not our intention to analyze man’s autoevolution at this point. We shall present its future prospects… in the final section of the book.” CONTEXT §6 gives CRISPR, embryo screening and the ethics debates to essay 8. Pitch 5-D already flagged the overlap.
-
-**Fix:** If the row stays in this essay, score `OPEN` or `EARLY` (selection and editing are dated paths to *choosing* traits; writing a “talent matrix” is not dated) and drop “not a matter of time.” Or move the object to essay 8 and keep only the *method* point (side entrance vs plagiarism) here.
+**Fix:** Strike “the sentence this essay will have to grade,” the happened paragraph that says the rule “fails,” and still-open #4. If the analogy is pedagogically useful, label it as the essay’s, not a result.
 
 ---
 
-### 6. DishBrain is not the described apparatus
+### 5. Synthetic-genome `HIT` is still paid by a rewritten object
 
-**Location:** Object-level: “An ‘artificial brain, created from natural tissue’ grown from a started and pruned embryo (p. 191)” → ~800,000 cultured cells learning Pong → `EARLY`. Prose: “his apparatus at a fraction of his ambition.”
+**Location:** ledger — “Chromosomes written down … synthesised, and made to run (p. 192)” / `HIT`. Said/happened still quote the “laboratory egg” and embryogenesis.
 
-**Problem:** Pages 191–192 specify a path: stimulate an egg (or copy its chromosomes), start embryogenesis, *remove unnecessary parts*, transfer a “neuron preparation” into solution, combine preparations. DishBrain (Kagan et al., *Neuron* 2022) is stem-cell-derived neurons on a multielectrode array, trained by stimulation. It is cultured tissue that learns, not a started-and-pruned embryo. `EARLY` needs a dated path to the scored claim. A cousin at reduced scale is not that path.
+**Problem:** p. 192 is one sequence: write the egg’s chromosome information, synthesise, “the ‘laboratory egg’ obtained in this way will go into embryogenetic ‘production.’” That is the side entrance into a *human organism* (same page: eye colour, talent matrices, disease-free design). Gibson 2010 assembled a bacterial genome and transplanted it into an existing recipient cell. The 2026 cell admits “Not the ‘laboratory egg’, and no embryogenesis.” `HIT` is “exists/happened substantially as described.” “Made to run” is the essay’s substitute for embryogenetic production. A bacterial transplant is the same *kind* of move (notation → chemistry → a living system), not the object on p. 192.
 
-**Fix:** Label the analogy. `OPEN` on the embryogenetic apparatus; or a new row on “neural tissue as a learning system,” which is not what p. 191 describes. Do not call it his apparatus.
-
----
-
-### 7. Rights `EARLY` pays a religious-machine demand with human papers
-
-**Location:** Object-level: the homeostat “will demand equal rights with the practitioners of the religion with which it will identify” (p. 140) → Long/Sebo 2024 + Anthropic model-welfare programme 2025 → `EARLY`. Prose: “Lem expected the demand for rights to come from the machine. So far it comes from us.”
-
-**Problem:** The scored sentence is specific: a machine raised among religious people adopts *their religion* and demands *equal standing with those practitioners*; “of more interest to theologians.” The receipts are a philosophy paper and a lab blog about secular moral status. CONTEXT: a paper that argues a scenario receipts the argument, not the event. `EARLY` needs a live path to *the machine demanding*. The essay’s own last sentence denies that path is the one being walked. “Institutional” for one paper and one programme is overstated.
-
-**Fix:** Object-level `OPEN` (has not happened; our welfare discourse is a different phenomenon). If a problem-level row is wanted — “rights-talk will attach to artifacts” — write that claim and do not quote the religion sentence as the Lem side.
+**Fix:** `EARLY` on the full p. 192 sentence, or a row that quotes only what Gibson instantiated and does not cite the egg/embryogenesis sentence as the Lem cell. Do not `HIT` a claim after deleting the words that make it fail.
 
 ---
 
-### 8. Five `<!-- CHECK -->` markers have no `claims-2026.tsv` row
+### 6. No `MISS`, and the chapter’s clean miss is the one the prose already has
 
-**Location:** `baseline-1964-ch5`, `synthetic-genome-2010`, `dishbrain-2022`, `embryo-screening-2024`, `germline-moratorium-2025`. `python3 checks/claims.py` reports 5 mismatches. Pre-ship test 3 fails.
+**Location:** ledger (2× `HIT`, 3× `OPEN`, 1× `RIGHT QUESTION, WRONG ANSWER`, 2× `RIGHT ANSWER, WRONG REASON`, 0× `MISS`). “Where he was worst”: he “could not imagine the pragmatism arriving without the knowledge”; talent matrices as “flat over-reach.”
 
-**Problem:** AGENT: every 2026-side factual claim is marked *and* has a non-`open` row. Markers without rows are ungated.
+**Problem:** AGENT requires a real `MISS` or `RIGHT QUESTION, WRONG ANSWER`, found honestly. The only `WRONG ANSWER` is finding 3. The worst-section claims are not in the ledger. Meanwhile the chapter’s own-voice forecasts that did not happen are either `OPEN` (tissue brain; talent matrices) or ungraded:
 
-**Fix:** Add checked rows. Gibson et al., *Science* 2010 for the genome; Kagan et al., *Neuron* 2022 for DishBrain (as a *report*); name the embryo-screening firms and the score they actually sell; name the 2025 ISCT/ASGCT/ARM statement as a *call*, not “the moratorium.” Baseline: Ashby appears in this chapter (pp. 166, 187); Gödel and Rosenblatt do not (pp. 149–150, ch. 4).
+- **Designer-with-bricks** (p. 176). The essay’s own diagnosis. That figure did not arrive. If interpretability is only an attempt to buy the half back, this is a `MISS` on the specified constructor, or at minimum not a right answer.
+- **p. 193 ranking** (On Imitology, unquoted): control of evolution, regeneration, and “orchestrate genetic traits in fetuses” “will turn out to be possible **long before** we gain the ability to create the chromosome apparatus of a nucleus in an artificial manner.” The essay `HIT`s artificial chromosomes (even bacterial) and leaves the “long before” comparison ungraded. Rankings are not chronologies — but this *is* a ranking Lem made, and AGENT says to read the comparison he actually made.
+- **Talent matrices** (p. 192). He treats “comprehensive knowledge of the genetic code” as what unlocks writing musical/mathematical talent into any egg. The cipher was known by the mid-1960s; the mapping of polygenic talents is not a code-table problem. “Where he was worst” says this; the ledger says `OPEN` because of his condition. The miss is the mechanism (code ⇒ traits), not the unmet condition.
 
----
+On Imitology (pp. 193–196) — the chapter’s named payload, and the essay’s contract job — is not in said, happened, or the ledger: “everything man does is a form of modeling”; design as “amplifier of the states of low probability”; “where Nature is ‘in its element’ as a designer, we are at our weakest.”
 
-### 9. 2026 claims I would challenge (marked or not)
-
-- **`monosemanticity-2024` / prose:** “sparse autoencoders pull millions of features… that correspond to nameable things — cities, people, code bugs.” Templeton et al. extracted large SAE dictionaries from Claude 3 Sonnet; a *subset* of features are clearly interpretable; clamping was shown on specific features (e.g. the Golden Gate Bridge case in the related work). “Millions… that correspond to nameable things” implies the dictionary is a catalogue of names. The TSV row repeats the overclaim.
-- **`scaling-laws-2020` / prose:** “capability tracks data, parameters and compute along a smooth curve.” Kaplan et al. 2020 fit *loss*, not capability. The slide is the popular one and is still a slide.
-- **`graphcast-2023`:** “leading physics-based forecast system” — the paper’s comparison is ECMWF HRES, the leading *deterministic* operational system.
-- **`alphafold-nobel-2024` / prose:** “its authors took a Nobel Prize.” Baker shared the 2024 Chemistry prize for computational protein *design*; he is not an AlphaFold author. Hassabis and Jumper did.
-- **Prose, unmarked as such:** “the default working method of a field”; “the weakest joint in the field”; “never needed to read Lem”; “the rungs do map”; “the gap is not a matter of time”; “institutional.”
-- **Prose still inflates AlphaFold** as “the looser version of the same move” after the ledger correctly moved the side-entrance `HIT` to Gibson 2010. Prediction is not synthesis. Cut or label as analogy.
+**Fix:** Put a `MISS` on the bricks clause or on the p. 193 order (or explain why “nucleus” saves the order *and* still allows the Gibson `HIT`). Quote On Imitology. Do not leave the negative only in a paragraph the ledger does not support.
 
 ---
 
-### 10. Later Lem already pointed at synthetic biology; 1964 is being graded as if he hadn’t
+### 7. Two layers mixed
 
-**Location:** Object-level genome `HIT` (p. 191 / Gibson 2010). No 1982/1991 sentence in the essay.
+**Location:** believing-machines row (object: an unbuilt apparatus; verdict: problem-level; receipt: interpretability papers). Designer + competence rows (same 2026 practice, two problem-level verdicts, one of them a `HIT`). Homeostat/hallucination row (problem-level `RIGHT ANSWER, WRONG REASON` paid by a paper about exam scoring).
 
-**Problem:** Zylinska (intro) says the later essays “updat[ed] the examples from *Summa* with their later scientific equivalents (e.g., synthetic biology and virtual reality devices…).” AGENT: when he re-graded, score 2026 against *that* Lem too. Later Lem treated synthetic biology as confirmation. The Venter/`Synthia` `HIT` is then later-Lem’s own receipt, uncredited. This is not grading 1964 for a concession he made; it is omitting a double-down.
+**Problem:** An object that was not built cannot carry `WRONG ANSWER`. Two rows must not score one practice as both right-answer-wrong-reason and `HIT`. Lem’s p. 125 necessity (a living regulator must induce or die) is not the same layer as “models guess because the test awards a point.”
 
-**Fix:** One sentence, via Zylinska, that 1982/1991 already cashed this cheque. Then say what 2026 adds (nothing object-level; the problem-level cost of the method is the essay’s job).
-
----
-
-### 11. The honest miss this chapter can carry is not in the ledger
-
-**Location:** Pitch 5-A (banked): “he thought the designer would still be a person; the restraint he prescribes is a virtue nobody has time for.” “Where he was worst” instead loads the ladder and the talent matrices.
-
-**Problem:** If findings 1 and 5 stand, the ledger’s two `MISS` rows are the strained one and the deferred one. The chapter’s available miss is on the page they quote: the Designer *knows his bricks* and chooses which questions to drop *in order to change something* (p. 176). 2026’s winning method is a training loop that does not know the bricks and has no stopping rule — which the “better than us” section already says, without scoring it.
-
-A second unused miss: p. 175 uses “machines that compose poems the way Shakespeare did” as the *type specimen of Charybdis*. They arrived. The essay converts that into a win (“without settling one of the questions those banalities skipped”).
-
-**Fix:** Score the knowing-constructor vs scaling-loop gap as `RIGHT QUESTION, WRONG ANSWER` or a problem-level `MISS` on “knows everything about his bricks.” Leave the Shakespeare line as the empty-talk warning, or admit the type specimen landed.
+**Fix:** One claim, one layer, one verdict. Unbuilt apparatus → object `OPEN`. Hallucination paper → do not pay p. 125 unless the Lem cell is rewritten to the actual claim (forced induction under threat to existence).
 
 ---
 
-### 12. Reader
+### 8. 2026 claims to challenge
 
-A skeptic of “Lem predicted everything” is not persuaded by this ledger. The object-level `HIT` that is clean (Gibson 2010) is the one later Lem already claimed. The other positive object rows are a cousin (DishBrain) and a mechanism-swap (GraphCast). The problem-level `HIT`s are Sutton-as-Designer, Zhang-as-silence, and Kalai-as-homeostat — three analogies. The two `MISS`es are a self-labelled transposition and an autoevolution claim this chapter deferred. The rhetoric (“The Designer won, and nobody had to argue for him”) is doing the work the rows will not.
+Markers exist and have non-`open` rows. The mappings and a few glosses do not.
+
+| Marker / phrase | Challenge |
+|---|---|
+| `openai-hallucination-2025` paying p. 125 | Paper is real (Kalai et al., arXiv:2509.04664). It does not show a homeostat that must believe or die. Lem distinguishes induction (must) from belief that has escaped verification (metaphysics, p. 125). Hallucination is the second; he did not say every regulator must do it. Outcome-match is a tautology of any decision system. Cut the row or label the analogy; do not `RIGHT ANSWER`. |
+| DishBrain “comparable object” | `dishbrain-2022` receipts ~800k cultured neurons in a closed loop. That is not “a comparable object” to an embryo-pruned “artificial brain, created from natural tissue” (p. 191). “Reporting … learned to play Pong” is the authors’ claim and was disputed; “reporting” is fine, “comparable object” is not. |
+| AlphaFold “Nobel … for results rather than mechanism” | Hassabis/Jumper shared Chemistry 2024 with Baker (computational *design*, not AlphaFold). The prize is for a method of structure prediction, not “results rather than mechanism.” Drop the gloss. |
+| `othello-2023` / `monosemanticity-2024` | Fine for “some internal states are readable.” They do not pay metaphysics, believing machines, or “the ladder rule fails.” SAE: the register already says only a *sample* of features is identified; still-open #4 (“in a learned model some [rungs] do”) oversells. |
+| `alphazero-2018` / `model-collapse-2024` as surplus-information evidence | Lem’s question (pp. 188–189) is how a *scientific theory* yields valid predictions nobody inserted. AlphaZero is fed rule-governed self-play outcomes; model collapse is recursive training on model text. Neither is an information-balance on a theory. Leave the question open without these as “evidence both ways.” |
+| “those machines arrived” (Shakespeare poems) | 2026 event, no `<!-- CHECK -->`. |
+| Absence claims (“Nobody does this,” “Nothing of the kind is done,” “nobody has raised populations”) | Unmarked. Prior panel required receipts for absences. |
+
+`bitter-lesson-2019`, `zhang-2017`, `scaling-laws-2020` (now “model loss,” not capability), `synthetic-genome-2010`, `embryo-screening-2024`, `germline-moratorium-2025` (correctly a *call*), `ai-welfare-2024`, `model-welfare-2025`, `baseline-1964-ch5` (Bohr–Einstein / Brouwer–Hilbert as cited, and as already over as live exchanges) — I would not challenge the facts.
+
+Later Lem: Zylinska p. 21 is cited; afterwords not scored. That is enough given the edition gap. The 2013 text *is* the 1974 4th edition (Zylinska p. 21); the essay still says “1964” throughout. Note it; do not grade 1964 for a 1982 concession that is not on disk.
+
+---
+
+### 9. Reader
+
+A skeptic of “Lem predicted everything” is not persuaded by this ledger. What would persuade: a `MISS` on the constructor he specified, an `EARLY` or narrowed row on the egg, and a believing-machines `OPEN`. What they get instead: two `HIT`s (one on a rewritten genome claim, one on a paraphrase of the builder), two `RIGHT ANSWER, WRONG REASON`s that still award the answer, and a `WRONG ANSWER` for an experiment nobody ran. The title and “That much arrived” do the work the rows cannot. “Where he was worst” is the honest page; it is not the score.
