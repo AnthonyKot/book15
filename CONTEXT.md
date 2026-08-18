@@ -85,7 +85,7 @@ is a row.
 ## 5. Voice and sourcing standard
 
 - Series voice: plain, argued, no hero-worship. Lem is not a prophet to be vindicated; he
-  is a very good interlocutor to be answered. Where he was smug (ESP), say so.
+  is a very good interlocutor to be answered. Where he was smug, say so.
 - Lem is always quoted verbatim from the 2013 text with page; paraphrase gets a page too.
   Zylinska's translation choices are noted where they matter (e.g. "intelectronics").
 - Every 2026-side factual claim carries `<!-- CHECK: id -->` and a `claims-2026.tsv`
@@ -132,7 +132,9 @@ Each essay has one exclusive job; the pitch (AGENT.md) fixes it before drafting.
   engineering"; the last two sections as speculation still.
 - **8 Lampoon.** Job: biology as bad engineering, autoevolution, cyborgization,
   constructing consciousness/death — against gene editing, longevity, prosthetics, the
-  ethics debates. Also the one section that has aged worst: extrasensory phenomena.
+  ethics debates. NB the ESP section (pp. 347-350) is NOT an error of his: he rejects
+  extrasensory phenomena, and note 10 (p. 371) states the file-drawer effect. See the
+  2026-08-18 status entry; that material belongs to essay 0, not to a list of misses.
 - **9 Art and Technology.** Job: his short closing on art under technology — against
   generative media. Blocked on corpus (§2).
 
@@ -430,3 +432,45 @@ regenerating the quote rows** — "we need some restraint" is "We thus need some
 checked. Regenerate essay quote rows after any prose edit. Rejected: agy's claim that the
 hallucination paper is not OpenAI's (it is). verify.sh PASS: 257 quotes, 93 claims, 0 open;
 2,856 words. Essay 5 now closed to further review with 4, 6 and 7.
+
+**2026-08-18 — panel round 1 (essay 8) applied; the thesis changed.** BLOCK, 27 reviewer
+findings adjudicated. The decisive one: **Lem's machine exists.** Dor Yeshorim has run since
+1983 — young people in Orthodox Jewish communities are tested and given an anonymous number,
+and when a match is proposed the two numbers are checked together, before the couple meets,
+returning proceed or incompatible. That is the p. 345 second-level partner-genotype selector,
+operating on exactly the branch he graded "a correct decision", and the essay had asserted it
+"did not arrive in the matchmaker". Rebuilt around it: the disease branch is now a bounded
+**HIT**; the intelligence/personality branch is EARLY, on a different device (embryo
+scoring), counted as a third path rather than his second stage arriving late.
+
+**The MISS was manufactured and is withdrawn** — the same failure as essay 5, one round
+later. Lem's "relatively easy" (p. 346) contrasts distributing intelligence with "a deep
+transformation of man's systemic organization", by partner selection over millennia; the
+essay tested one-generation embryo selection and debited him for its within-family limit.
+Also, Karavani's ~2.5 IQ points is predictor-relative — the paper says expected gain scales
+with the square root of variance explained — so "a limit no better score removes" was wrong.
+Row → OPEN, claim row corrected. The honest negative is the **cultural-authority forecast**:
+he assumed the machine would acquire standing by being right, and no mass platform ever did;
+where the norm exists, a community that already held authority over marriage routed it
+through a test — a precondition he never names. RIGHT QUESTION, WRONG ANSWER.
+
+Other corrections, all verified against sources: **He Jiankui had three children, not two**
+(a third born 2019, acknowledged in the December 2019 judgment), so "no further gene-edited
+children" was false; **23andMe changed owner once, not twice** (Regeneron won an auction bid
+but never closed; TTAM completed in July 2025) — and since a data sale does not test Lem's
+population-authorization dilemma, that paragraph and the `23andme-2025` row are gone;
+**implanted insulin pumps are not routine** (routine pumps are external), row narrowed to
+intrathecal pumps and subdermal implants; **Rosenfeld pays "where couples met", not
+algorithmic matching**, now labelled as such; **Joel et al. tests initial desire at speed
+dates**, not relationship stability, so the "better knowledge" row is OPEN and no longer
+claims more; the p. 347 row split so the disgust asymmetry is HIT and "analogous results"
+stays OPEN, matching Still open #3; the p. 344 "bottled fetuses" framing and the "(so far
+limited)" hedge restored, and the unfair claim that Lem took the stability figure on trust
+removed. Template fixed (lede 145→99, said 1,115→897, happened 713→650). A quote truncated
+mid-parenthesis — "(which raises some doubts)" for "(which raises some doubts, at least for
+the time being)" — was caught by the new regenerate-the-rows rule.
+
+**Also fixed here:** `CONTEXT.md` §5 still said ch. 8's ESP section "has aged worst" and told
+the writer to say Lem was smug about it, contradicting the 2026-08-18 correction below. Both
+lines updated; the authority file no longer gives opposite instructions. verify.sh PASS: 277
+quotes, 93 claims, 0 open; 2,801 words.
