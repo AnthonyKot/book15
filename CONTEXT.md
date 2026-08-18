@@ -296,3 +296,36 @@ count-sync gating, structure advisory. `scripts/find.py` writes the quote rows.
   (AutoAnalyzer 1957, Robot Chemist 1959), it just did not form hypotheses. verify.sh PASS:
   196 quotes, 78 claims, 0 open.
 
+
+**2026-08-18 — panel round 2 (essay 7) applied; essay 7 rebuilt a second time.**
+Codex's consolidation (`drafts/reviews/07-codex.r2.md`, BLOCK) found the essay had scored
+the wrong argument, and it was right. **Lem's note 8 (pp. 365–367)** — three pages of small
+type at the back of the book — is an essay in which he grades his own information farm and
+supplies the selector the chapter lacks. He says a farm "can actually exacerbate, rather
+than diminish, a crisis resulting from the excess of information" (p. 365); that detached
+from its human matrix it becomes a "bomb—if not a megabyte then at least a gigabyte one"
+(p. 366); that "As long as the selectors at the information farm are under the active
+influence of intelligent beings, they are capable of selecting information effectively"
+(p. 366); and that a farm without an "addressing sieve" produces a paper deluge making
+"any further research impossible", so that "the automatization of cognitive processes, at
+least within the field of librarianship and publishing, is a more urgent task" (p. 367).
+So the essay was rebuilt around **two sieves** — one wired to the phenomenon (what is true),
+one wired to the addressee (what is worth saying) — retitled "The two sieves", and now
+carries a genuine **MISS**: on p. 367 he calls a machine librarian "based on frequency
+analysis" impossible and "algorithmic methods… worthless" for selection; Garfield's Science
+Citation Index appeared that same year, ran scientific search for fifty years, and became
+PageRank in 1998. The p. 251 formalism row moved to problem level as RIGHT ANSWER, WRONG
+REASON (the crisis came, but from production without addressing, which his own note says).
+Also fixed: the p. 243 row restored "generalize it in the same way the scientist does" and
+"Our device thus produces theories" and dropped to EARLY; pp. 276–277 (predictions stripped
+of explanations — HIT, AlphaFold + GenCast) split from p. 280 (causal language of the next
+kind — OPEN, since designed protein sequences are his *first* causal language, not a
+successor); FunSearch demoted from the world-coupled case to formal search with an exact
+evaluator; the "nowhere else in the book" lede claim cut; the unreceipted 1964
+counterfactual cut; absence claims bounded to the systems surveyed. **A-Lab receipt
+superseded:** the Author Correction of 2026-01-19 gives 36 compounds from 57 targets,
+"novel" dropped from the title, novelty meaning new to the prediction platform, and 36 of
+40 successes confirmed on manual re-analysis — so the 2024 critique is a dispute over
+novelty and phase identification, not a demonstration of failure, and the essay now says so.
+New AGENT.md rule: read the chapter's endnotes before drafting. verify.sh PASS: 219 quotes,
+85 claims, 0 open; essay 7 at 3,200 words.

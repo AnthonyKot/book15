@@ -35,6 +35,11 @@ will check a claim if it looks too neat.
   the event; otherwise OPEN or EARLY with the receipt described honestly.
 - Rankings are not chronologies; a "harder" is not a "later". Read the comparison
   Lem actually made before scoring what happened to it (panel lesson, essay 6).
+- Read the endnotes for the chapter before drafting it (`pages 340-383`). They are not
+  citations: several are essays in which Lem grades his own proposal, and where they
+  disagree with the chapter body the note is usually the better forecast. Note 8 to
+  ch. 7 supplies the second selector the chapter lacks and three dated, checkable
+  predictions; missing it made essay 7 score the wrong argument (panel lesson, essay 7).
 
 ## Pitch before writing (the guinea-pig gate)
 Never drafted cold. For each essay present the user 2–4 candidate angles, ≤4 sentences
