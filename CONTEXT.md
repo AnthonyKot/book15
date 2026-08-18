@@ -532,3 +532,42 @@ sensitive the instruments used in them are" — a condition sixty years of hobby
 has not met. So the silence the chapter treats as data may be what $10 million a year sounds
 like. Scored OPEN. Navigation now runs 2 → 3 → 4. verify.sh PASS: 111 claims, 0 open;
 2,437 words.
+
+**2026-08-18 — panel round 1 (essay 2) applied; essay rebuilt, and a citation error corrected
+in this file.** BLOCK, 14 findings. Two were serious.
+
+**(1) Contract breach.** §6 requires ch. 2's essay to cover the parallel *and* "Several Naïve
+Questions"; angle 2-A stopped at pp. 33–38 and an endnote. A chosen pitch does not amend the
+authority document. The essay now covers p. 43 (technical evolution "has so far been moving in
+a kind of reverse direction… only… creating narrowly specialized devices" → **MISS**, the
+direction reversed; and the named route to universality via "self-organizing systems… capable
+of adaptive self-programming" → **RIGHT ANSWER, WRONG REASON**, since what arrived is
+self-programmed but by gradient descent, not by that theory) and pp. 56–57 (his refusal to
+reserve creative work for humans → **HIT**; "will not need programmers anymore" → OPEN;
+"'cleverer' does not yet mean 'rebellious'" → moved to Still open).
+
+**(2) The note is note 6, not note 1, and it hangs from p. 47.** Chapter 2's notes 1–4 are
+translator's notes (gender of *technika*, Hoyle, videorama, Davitashvili). The hybridisation
+note attaches to "Everything else… is still ahead of us" at the end of the theory-versus-
+empiricism discussion, not to the parallel — and it *qualifies* the analogy rather than
+retracting it, since the chapter already has a "Differences" section from p. 38. Every "note
+1" and "a disanalogy the chapter never mentions" formulation is gone from the essay, and the
+2026-08-18 entry above is wrong on this point; this entry supersedes it.
+
+Also corrected: the legislature claim overstated the chapter (p. 38 says technical evolution
+is "not… people-free" and not amoral, so the gap is narrower — he models agency as choice of
+direction, not enforceable prohibition; now OPEN, not an absolute). The radio-radiation HIT
+was paid by the wrong event (AM removal is habitat loss, not diversification) and is cut. The
+omnibus morphological HIT laundered untested components and is cut. The VTOL row no longer
+treats an aircraft that already existed as a forecast: the P.1127 hovered in 1960 and the
+Harrier entered service in 1969, both before the 1974 edition this translation follows, so the
+row now grades the *mechanism* — niche defence rather than displacement — against the V-22
+(2007) and F-35B (2015). The AlexNet row is narrowed to cross-domain recombination and
+labelled as the essay's illustration. COBOL figures are labelled trade estimates and the
+thesis is now "software relics can survive in the centre". Two citations moved p. 33 → p. 34.
+The archaeopteryx attribution is cut. Disputed AM cosponsor counts are out of the prose —
+congress.gov blocks automated fetches, two sources disagree, and the point does not need the
+number. **A 1974-edition caveat is now stated in the essay itself**, since Harrier and SR.N4
+service both predate the text. Two more misquotes were caught by regenerating quote rows: "It
+is here perhaps that the biggest difference lies" and "only been creating narrowly specialized
+devices". verify.sh PASS; 2,886 words.
