@@ -602,3 +602,34 @@ which the register handles because ids are global. Navigation now runs 1 → 2 �
 congress.gov on 2026-08-18 and supplied by the user, correcting the secondary source that said
 "more than 60 Senators" by counting the sponsor. verify.sh PASS: 112 claims, 0 open;
 2,386 words.
+
+**2026-08-18 — essay 0 drafted, "How to grade a prophet". The book is complete except essay 9.**
+Written last by design, and it reports rather than promises. Its Lem material is the Conclusion
+(pp. 351–352), where he defends his own procedure, and Zylinska's introduction. **Two contract
+corrections recorded here:** (1) §6 assigned "Twenty Years Later" to essay 0, but that essay is
+*not in this English edition* — the 2013 volume runs Translator's Introduction, chs. 1–8,
+Conclusion, Notes, Bibliography, Index. Both "Twenty Years Later" (1982) and "Thirty Years
+Later" are absent, and they are the only direct check on whether this book's verdicts are
+harsher than Lem's own. (2) The thesis came from p. 20: in 1991 Lem said he would gladly publish
+"a new critical edition of Summa, much enlarged to include… my commentary on the things I wrote
+in the 1960s". This book is that edition with the commentary supplied by the sixty years.
+
+**The census, computed from the published essays, not typed: 82 rows — 32 OPEN, 26 HIT, 11
+RIGHT QUESTION WRONG ANSWER, 6 MISS, 4 EARLY, 3 RIGHT ANSWER WRONG REASON.** OPEN is the modal
+verdict. **DISSOLVED was never used once in 82 rows** — the vocabulary is adequate and
+oversized, and that is now a finding rather than an oversight.
+
+Essay 0's own ledger grades the method: the "never false" rule → RIGHT QUESTION, WRONG ANSWER
+(the gate is blind to unregistered quotations, and two misquotes reached the live site, both
+introduced while trimming); the seven-word vocabulary → HIT; the mandatory-negative rule →
+RIGHT ANSWER, WRONG REASON (it produced four manufactured negatives that had to be withdrawn);
+the two-layer separation → HIT; **dating the corpus → MISS**, because the book said "1964"
+throughout for a 1974 fourth edition. That error is now fixed in all eight essays, which carry
+the edition caveat; essay 2 had actually credited Lem with a mechanism illustrated by an
+aircraft in service five years before the edition it quotes.
+
+Standing lessons for any future book built this way, all learned the hard way here: read the
+endnotes before drafting (they beat the chapter three times); regenerate quote rows after every
+prose edit; and if no honest negative exists, say the chapter is different and invite attack —
+do not manufacture one, because the manufactured negative always takes the same form, grading
+the essay's own transposition as the author's claim.
