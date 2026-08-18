@@ -505,3 +505,30 @@ being prohibited, and AM radio is not being saved by fitness but by a bill with 
 cosponsors. Technologies have a legislature, which can preserve the unfit and kill the fit,
 and the two-evolutions model has nowhere to put it. Essay 4's nav updated to point back to
 essay 2. verify.sh PASS: 315 quotes, 102 claims, 0 open; 2,520 words.
+
+**2026-08-18 — essay 3 drafted, "Who pays for the telescope" (angle 3-D).** Pitch gate run on
+ch. 3 (`drafts/03.pitches.md`, four angles); user chose 3-D over the recommended 3-A, taking
+the political economy of contact rather than the silence itself. That leaves the chapter's
+famous material — the metatheory of miracles (pp. 70–73), Votum Separatum (pp. 83–86),
+hypothesis III — unscored and available; note it as a candidate if the book ever wants a
+second pass at ch. 3, and note that essay 0 must not assume ch. 3's silence was graded.
+
+The essay takes pp. 89–90, where Lem stops asking whether they are there and asks what the
+search costs, who pays, who transmits, and whether a message would be recognisable. Verdicts:
+his cost estimate — investment "even more substantial than the current investment in research
+on nuclear energy" — is a clean **MISS**, out by roughly two orders of magnitude (the largest
+searches ever mounted run at about $10M/yr; US fusion alone was $790M in FY2025 and ITER has
+passed $20bn). His political forecast is **RIGHT QUESTION, WRONG ANSWER**: the bottleneck was
+exactly where he put it, and the rulers never came — HRMS killed by a Senate amendment about a
+year after it began, the Allen array hibernating in 2011 and returning partly by tracking
+orbital debris for the Air Force, then Breakthrough Listen's $100M and the SETI Institute's
+$200M bequest from a dead Qualcomm founder. HITs: the transmit/receive asymmetry (p. 90) is now
+the METI dispute; the compression argument is how narrowband searches are designed; the
+star-flight energy budget is unchanged.
+
+The essay's sharpest point is at problem level and turns Lem against his own chapter: at p. 80
+he says the absence of data gains significance "the longer such attempts take and the more
+sensitive the instruments used in them are" — a condition sixty years of hobby-scale funding
+has not met. So the silence the chapter treats as data may be what $10 million a year sounds
+like. Scored OPEN. Navigation now runs 2 → 3 → 4. verify.sh PASS: 111 claims, 0 open;
+2,437 words.
