@@ -633,3 +633,41 @@ endnotes before drafting (they beat the chapter three times); regenerate quote r
 prose edit; and if no honest negative exists, say the chapter is different and invite attack —
 do not manufacture one, because the manufactured negative always takes the same form, grading
 the essay's own transposition as the author's claim.
+
+**2026-08-18 — panel round 1 (essay 3) applied; contract covered, cost MISS withdrawn.** BLOCK.
+The same contract breach as essay 2: §6 requires the von Hoerner/Drake statistics, the
+catastrophic theory, *Votum Separatum* and the SETI negatives, and angle 3-D had restricted
+grading to pp. 89–90. All of it is now in the essay, and **note 3 (pp. 358–359) turns out to
+carry Lem's own answer** — the fourth time an endnote has decided an essay. Having rejected
+prompt extinction as "an absurd kind of determinism" and rarity as a contradiction of cosmic
+homogeneity, he writes that the isolation hypothesis "seems to be the most probable one. It has
+therefore been selected as the dominant hypothesis in the course of writing this book." The
+chapter itself never says this.
+
+**The cost MISS is withdrawn.** Lem asked for "a great amount of equipment" and possibly
+transmitters; the essay compared a $10M/yr programme commitment against annual fusion research
+and ITER's cumulative construction. Not like-for-like — and Breakthrough Listen observes on the
+NSF's Green Bank and CSIRO's Parkes rather than on anything it built, so the search was cheap
+partly because it borrowed. Row → OPEN. The negative is now the rulers row, RIGHT QUESTION,
+WRONG ANSWER, bounded: the one large public programme died by amendment and dedicated searching
+ran on philanthropy *using public telescopes*, which is narrower and true. "Every serious
+attempt… paid for by individuals" was false and is gone.
+
+**The essay's central point is now correctly grounded.** It used annual budget as the measure of
+whether the silence means anything; the right measure is search completeness, and Wright,
+Kanodia & Lubar (AJ 2018) supply it — the fraction of the eight-dimensional radio search space
+examined is comparable to a drinking glass of seawater against Earth's oceans. Lem's own hedge
+at p. 80, "Today it is still too early for this", was also omitted and is restored.
+
+Other fixes: the reception-only row moved to problem level (terrestrial behaviour cannot
+establish what alien civilisations do) and its history corrected — **Drake's Arecibo message of
+1974 was missing** from both essay and register; the star-flight row → OPEN (sixty years is not
+the "several hundred" he allowed, and Starshot is an uncrewed interstellar proof-of-concept, not
+von Hoerner's crewed intergalactic crossing, whose calculation is his and not Lem's); the
+call-signs row states its baseline, since Ozma was already hunting artificial regularity in 1960.
+
+**Two new AGENT rules, both paid for twice:** check the chosen pitch against §6 before drafting
+and amend the contract explicitly if the angle narrows scope; and note two corpus limits —
+`corpus.py` strips bracketed insertions, so **translator's notes are unquotable** (this caught
+an attempt to quote note 5's "And also in 1974"), and a quotation spanning a page break must be
+filed under the first page.

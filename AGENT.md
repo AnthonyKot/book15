@@ -41,6 +41,17 @@ will check a claim if it looks too neat.
   ch. 7 supplies the second selector the chapter lacks and three dated, checkable
   predictions; missing it made essay 7 score the wrong argument (panel lesson, essay 7).
 
+## Check the chosen pitch against the CONTEXT §6 contract before drafting
+A pitch the user picked does not amend the authority document. If the chosen angle covers less
+than §6 requires for that chapter, either widen the essay to cover the contract or amend §6
+explicitly and record the amendment in §8 — before writing. This cost full rebuilds of essays 2
+and 3, both blocked for the same reason.
+
+Two corpus limits to remember. Translator's notes are printed in square brackets, and
+`scripts/corpus.py` strips bracketed insertions during normalisation, so **anything inside a
+translator's note is unquotable** — describe it instead. And a quotation that spans a page break
+needs its row filed under the *first* page, since the gate checks page N together with N+1.
+
 ## After any prose edit, regenerate the essay's quote rows
 `checks/quotes.py` only checks quotations that have a row in `checks/quotes.tsv`. A quotation
 you introduced or reworded and never registered is invisible to the gate — `verify.sh` will
