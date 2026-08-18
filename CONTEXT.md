@@ -392,3 +392,41 @@ the method, not in a list of errors. (2) §6's essay-8 title is now "The invisib
 **Dating caveat** (as for essay 5): the 2013 translation is of a later edition — this
 chapter's conclusion is signed "Krakow, August 1966" — so ch. 8's baseline is mid-1960s,
 not 1964. verify.sh PASS: 273 quotes, 93 claims, 0 open; 3,119 words.
+
+**2026-08-18 — panel round 3 (essay 5) applied; the MISS withdrawn, a real one found.**
+BLOCK (`drafts/reviews/05-*.r3.md`; grok returned a full report this round rather than dying
+at its turn limit). The decisive finding is that essay 5's only MISS was not earned. The row
+graded Lem's p. 193 ordering claim "Reversed" on the strength of Sc2.0 — but the Boeke lab's
+own project page states that consolidating the sixteen synthetic chromosomes into a single
+organism is still the final phase, so there is no artificial "chromosome apparatus of a
+nucleus"; neither side of his comparison has happened and the order cannot be scored. Row →
+OPEN, and `sc2-2023` corrected (individually synthesised and validated; consolidation
+pending; and the work was redesign plus debugging, not manufacture alone — recoded stops,
+relocated tRNAs, loxPsym sites). Also withdrawn: the p. 125 RIGHT ANSWER, WRONG REASON row,
+which graded a cousin — Lem's homeostat believes because refusing to act ends life, the
+hallucination paper is about grading rewarding a guess; the comparison stays in prose,
+explicitly unscored.
+
+That left no negative, so per AGENT rule 2 the search was for an honest one rather than a
+manufactured one — and it was already in the essay's own thesis, unscored: p. 176's "The
+designer is not a narrow pragmatist… The designer knows everything about his bricks." Lem's
+Designer drops the definitive question and keeps the materials science; 2026 dropped both.
+New problem-level row, **RIGHT QUESTION, WRONG ANSWER**, receipted on the bitter lesson,
+Zhang et al. 2017 and the interpretability statement. Ledger is now 8 rows: 7 OPEN + 1 RQWA,
+and "Where he was worst" says so and invites attack on that.
+
+Other fixes: Lem's own provisional answer to the surplus question restored (p. 188, "there
+exists a continuity of transformations in the world… their feedback") — the essay had said
+he "cannot answer and says so", which was unfair; the Othello/SAE material demoted from
+refutation to labelled analogy (and "Lem's own Designer would have wanted this" cut); "nobody
+derived from first principles", "Frontier labs state plainly" (→ Anthropic), "the later Lem
+had already claimed this ground", "never had a theory of what the sequence means" and several
+unmarked absence claims all bounded or cut; **an arithmetic error in my own text corrected**
+("six of eight rows are OPEN" — it was five). Template violations fixed: lede 164→106
+(≤120), What Lem said 1,189→893 (600–900), What happened 827→700 (≤700), Reading 7→3 modern
+sources, nav contents link restored. **A misquote I introduced while trimming was caught by
+regenerating the quote rows** — "we need some restraint" is "We thus need some restraint"
+(p. 176); note that `verify.sh` cannot catch this class, because a quote with no row is not
+checked. Regenerate essay quote rows after any prose edit. Rejected: agy's claim that the
+hallucination paper is not OpenAI's (it is). verify.sh PASS: 257 quotes, 93 claims, 0 open;
+2,856 words. Essay 5 now closed to further review with 4, 6 and 7.
