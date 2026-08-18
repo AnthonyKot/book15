@@ -41,6 +41,15 @@ will check a claim if it looks too neat.
   ch. 7 supplies the second selector the chapter lacks and three dated, checkable
   predictions; missing it made essay 7 score the wrong argument (panel lesson, essay 7).
 
+## After any prose edit, regenerate the essay's quote rows
+`checks/quotes.py` only checks quotations that have a row in `checks/quotes.tsv`. A quotation
+you introduced or reworded and never registered is invisible to the gate — `verify.sh` will
+go green over a misquote. Rebuild the essay's rows from the HTML after editing (extract every
+"…" span, locate it in the corpus, write one row per fragment and per page for quotes that
+span a page break), and read the unmatched list by eye: real misquotes hide among the
+quote-pairing artifacts. This caught "we need some restraint" for "We thus need some
+restraint" (p. 176) in essay 5, introduced while trimming for length.
+
 ## Pitch before writing (the guinea-pig gate)
 Never drafted cold. For each essay present the user 2–4 candidate angles, ≤4 sentences
 each: the Lem passage that anchors it (paged), the 2026 fact it meets, and the verdict
