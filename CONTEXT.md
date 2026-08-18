@@ -60,7 +60,7 @@ scale as the route to competence — recorded in prose, not manufactured into a 
 | 5 | 5 Prolegomena to Omnipotence (164–196) | Design without understanding | ML as imitology; AlphaFold; "methodological madness" |
 | 6 | 6 Phantomology (197–236) | Can you tell? | VR's plateau; simulation argument; deepfakes; BCI |
 | 7 | 7 The Creation of Worlds (237–293) | Information farming, at last | AI-for-science, automated discovery; linguistic engineering |
-| 8 | 8 A Lampoon of Evolution (294–~350) | Redesigning the designer | CRISPR, He Jiankui, longevity, prosthetics; the ESP misstep |
+| 8 | 8 A Lampoon of Evolution (294–353) | The invisible path | matchmaking + embryo screening; He Jiankui; longevity; cyborgs |
 | 9 | 9 Art and Technology (PL/RU only) | The generated image | generative art, music, text — corpus gap, see §2 |
 
 Order = Lem's order. Essay 0 sets the scoring rules and is written *last* (it must
@@ -361,3 +361,34 @@ filtering outputs at each stage — the paper is paywalled and neither Sakana's 
 *Nature* news piece nor phys.org states it, so it is not receipted. Essay 7 is now closed
 to further review per the diminishing-returns rule. verify.sh PASS: 219 quotes, 84 claims,
 0 open; 3,198 words.
+
+**2026-08-18 — essay 8 drafted, "The invisible path" (angle 8-A).** Pitch gate run on ch. 8
+(`drafts/08.pitches.md`, four angles); user chose 8-A. Ledger written first
+(`drafts/08.ledger.md`), then prose. The essay is built on "The Autoevolutionary Machine"
+(pp. 344–347), the section the old §6 line did not mention: Lem forecasts that control of
+human heredity arrives through machine matchmaking plus genotype screening, because that
+route "seems the least drastic one as it remains invisible" (p. 345), and closes with
+"'Cutting up people's brains and bodies' evokes disgust, whereas 'machinic marriage
+counseling' seems to be quite an innocent intervention—yet these are just two paths of
+different lengths that can both lead to analogous results" (p. 347). Verdicts: the adoption
+forecast HIT (online overtook friends c. 2013), the two-level genotype selector RIGHT ANSWER,
+WRONG REASON (it exists and sells his exact menu — IQ, anxiety, ADHD, appearance — but
+screens embryos, not partners), the millennial timescale RIGHT QUESTION, WRONG ANSWER (IVF
+moved the unit of selection off mating), and the genuine **MISS** on "It would be relatively
+easy… to distribute widely high intelligence" (p. 346): selecting the top of ten embryos buys
+~2.5 IQ points, capped by within-family variance, which no better score enlarges. Cyborg
+rejection and the sub-100 lifespan deflation both HIT. Three OPEN rows: whether the machine
+has the "better knowledge" he grants it (Joel et al. 2017 says no), his consent problem
+(unimproved and unanswered — the 23andMe bankruptcy moved 15M genomes through a court
+auction), and note 2's demand for "conscious and responsible risk".
+
+**Two corrections to this file.** (1) §6 called the ESP section "the ESP misstep": wrong.
+At pp. 347–350 Lem *rejects* extrasensory phenomena, and by an argument nobody else was
+making — if telepathy worked, selection would have found and accumulated it — plus note 10
+(p. 371), which describes the file-drawer effect and the garden of forking paths in 1964
+("there will be five or six people left on the battlefield—those who have obtained positive
+results several times in a row"). That is Lem at his best and belongs in essay 0's account of
+the method, not in a list of errors. (2) §6's essay-8 title is now "The invisible path".
+**Dating caveat** (as for essay 5): the 2013 translation is of a later edition — this
+chapter's conclusion is signed "Krakow, August 1966" — so ch. 8's baseline is mid-1960s,
+not 1964. verify.sh PASS: 273 quotes, 93 claims, 0 open; 3,119 words.

@@ -1,4 +1,4 @@
-I'll start with the scoring rules and the chapter essay, then check Lem quotes against the corpus before ranking findings.I'll verify the quotes against the corpus and pull the claim register, endnotes, and prior reviews next.Previous reviews exist; I’ll verify quotes independently and reread the chapter plus its endnotes before ranking anything.The rebuilt essay is the one under review. I’ll gate the quotes, then check the 2026 claims and ledger verdicts.I’ll extract every quote and claim next, then check the chapter endnotes Lem used to re-grade himself.A few 2026 receipts look overstated. I’m checking Sc2.0, the moratorium, and whether the “no first principles” claim holds.The rebuilt ledger still has a constructed miss and a leftover analogy scored as a right answer. I’ll write the findings to the review file.# Essay 5 review — findings only
+# Essay 5 review — findings only
 
 Ranked by severity. Quotes from `chapters/05-real-means-useful.html`. Corpus checks via `scripts/find.py`.
 
