@@ -571,3 +571,34 @@ number. **A 1974-edition caveat is now stated in the essay itself**, since Harri
 service both predate the text. Two more misquotes were caught by regenerating quote rows: "It
 is here perhaps that the biggest difference lies" and "only been creating narrowly specialized
 devices". verify.sh PASS; 2,886 words.
+
+**2026-08-18 — essay 1 drafted, "The three ways to be wrong" (angle 1-A).** Pitch gate run on
+ch. 1 (`drafts/01.pitches.md`); user chose 1-A. The essay grades Lem's own taxonomy of
+forecasting error against this book's ledgers, which is the only fair dataset for it and the
+bridge into essay 0. His three modes: the sudden turn ("burst forth like Athena from Zeus's
+head", p. 28), the straight line ("the world full of balloons", p. 28), and the closed schema
+with its sick man who "can… go on living until old age" (pp. 29–30).
+
+Verdicts: all three modes HIT, receipted from other essays' rows — sudden turn on the language
+omission (essay 4/7) and the unit of selection moving to the embryo (essay 8); straight line on
+his own air-cushion successor (essay 2) and the SETI cost estimate (essay 3); closed schema on
+VR's plateau (essay 6) and the search that simply continues (essay 3). The **MISS** is
+self-inflicted and is the chapter's own best exhibit: four paragraphs after convicting Blackett
+of a failed atomic forecast, he writes that "Current estimates situate the production of the
+microfusion cell in the 1990s, or even later" (p. 28). ITER is now not expected to be fully
+operational until 2039.
+
+The problem-level negative is that **the taxonomy is short by one**. A fourth mode recurs in
+these ledgers: choosing the successor that abolishes the most over the one that changes the
+least — the motor replaced but not the wheel (essay 2), executable formalism rather than polymer
+carriers (essay 7). It is not a straight line, not a sudden turn, and has no ending in it; the
+essay calls it the impressive-successor error and labels the naming as its own. RIGHT QUESTION,
+WRONG ANSWER. **Essay 0 should take this over**: the fourth mode, and the finding that naming
+the modes did not protect Lem from two of them, are the raw material for the method chapter.
+
+Also recorded: essay 1 is the first essay whose receipts are mostly other essays' claim rows,
+which the register handles because ids are global. Navigation now runs 1 → 2 → 3 → 4. The
+`am-radio-ev` row now carries exact cosponsor counts (60 Senate, 317 House) read from
+congress.gov on 2026-08-18 and supplied by the user, correcting the secondary source that said
+"more than 60 Senators" by counting the sponsor. verify.sh PASS: 112 claims, 0 open;
+2,386 words.
