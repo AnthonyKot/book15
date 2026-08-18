@@ -474,3 +474,34 @@ the time being)" — was caught by the new regenerate-the-rows rule.
 the writer to say Lem was smug about it, contradicting the 2026-08-18 correction below. Both
 lines updated; the authority file no longer gives opposite instructions. verify.sh PASS: 277
 quotes, 93 claims, 0 open; 2,801 words.
+
+**2026-08-18 — essay 2 drafted, "The last lawnmower" (angle 2-A).** Pitch gate run on ch. 2
+(`drafts/02.pitches.md`, four angles); user chose 2-A. The essay grades the analogy that gives
+the chapter its title, on the dated artifacts Lem staked it on. Verdicts: the successor
+technology a clean **MISS** — wheel drive is untouched, the car-carrying cross-Channel
+hovercraft closed in 2000 and large commercial hovercraft vanished, and what displaced the
+combustion engine was an electric motor under the same wheels (25% of global new-car sales in
+2025). The relic prediction is **OPEN** and being falsified from the wrong end: California
+required most new small off-road engines to be zero-emission from January 2024, so the
+lawnmower is dying before the car, and by statute. VTOL **HIT** (Harrier 1969, V-22 2007,
+F-35B 2015 — defending a niche, not taking the helicopter's; no US eVTOL type certificate
+yet). Radio's radiation **HIT**, with the current squeeze coming from the electric drivetrain
+interfering with AM. The morphological pattern **HIT** at problem level.
+
+**Note 1 (p. 356) again supplies the essay's best material** — the third chapter running where
+the endnote beats the chapter. Lem names the disanalogy the chapter never mentions:
+technologies cross-fertilise where "biological species, having become fixed, cannot", giving
+"constant acceleration" and "sudden turns—which are totally unexpected and unpredictable".
+Scored HIT, receipted on AlexNet trained on two consumer graphics cards — statistics crossed
+with video-game hardware. The negative is at problem level: his claim that both evolutions
+have "almost the same number of degrees of freedom and… similar dynamic laws" (p. 38) fails
+for software, where there is no extinction — COBOL still runs core banking at an estimated
+220–800 billion lines. Biological relics survive in the margins; software relics survive in
+the centre. RIGHT QUESTION, WRONG ANSWER.
+
+The chapter's other limit, stated in "Where he was worst": his model has exactly one selection
+pressure, competition in a niche. But the small petrol engine is not being outcompeted, it is
+being prohibited, and AM radio is not being saved by fitness but by a bill with 296 House
+cosponsors. Technologies have a legislature, which can preserve the unfit and kill the fit,
+and the two-evolutions model has nowhere to put it. Essay 4's nav updated to point back to
+essay 2. verify.sh PASS: 315 quotes, 102 claims, 0 open; 2,520 words.
