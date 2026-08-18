@@ -713,3 +713,38 @@ prefers a page inside the essay's own chapter range, which raised essay 1 from 1
 after essay 0 first quoted them. Current, computed not typed: **85 rows grading Lem — 37 OPEN,
 26 HIT, 11 RQWA, 4 EARLY, 4 MISS, 3 RAWR — plus 8 method rows in essay 0. DISSOLVED still
 unused in all 93.** Essay 0 now dates its figures and says they moved twice during writing.
+
+**2026-08-18 — panel round 1 (essay 0) applied; the book's headline finding recovered.** BLOCK,
+and the most valuable finding of the whole run was one I had missed: **§6 requires a hit-rate by
+layer, and the split is the result the two-layer method exists to produce.** Computed from the
+published essays:
+
+| Layer | Rows | HIT | OPEN | MISS | EARLY | RQWA | RAWR |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Object | 50 | 11 (22%) | 23 | 4 | 4 | 5 | 3 |
+| Problem | 35 | 15 (43%) | 14 | 0 | 0 | 6 | 0 |
+
+**Lem is roughly twice as reliable about what will be hard as about what will be built, and has
+no MISSes at problem level at all.** Every outright failure in the book is a device, a date or a
+number; not one is a question. That also settles the objection essay 0 was built against —
+Zylinska's reading that he was "signaling certain problems and posing questions" rather than
+"offering any determined visions" turns out to describe his strength, and the ledgers support
+her rather than defeating her. Essay 0 now leads on this.
+
+Other fixes: the census was stale in four places including the meta description (82/6 → 85/4)
+and is now receipted as `book15-census`, computed not typed; the withdrawal history is rewritten
+**by cause** and is auditable — three transpositions (essays 7, 7, 8), two category errors about
+what kind of sentence Lem wrote (essay 1's reported consensus and disclaimed completeness), one
+ordering scored before either side happened (essay 5), one comparison of unlike quantities
+(essay 3) — since "all seven had the same cause" was false; the endnote history now counts four,
+with ch. 8 note 2 described as sharpening rather than reversing and ch. 3 note 3 added; and §6's
+assignment of the ESP argument (pp. 347–350) and note 10 (p. 371) is now covered, as an exhibit
+of his method rather than a scored row — **note 10 describes the file-drawer problem fifteen
+years before Rosenthal named it**, which is the clearest thing in the book about how Lem thought
+and which no ledger can score.
+
+**A second gate blind spot, demonstrated by this chapter's own first draft:** `checks/claims.py`
+verifies that a marker has a row, not that the row supports the sentence. The draft receipted a
+claim about review rounds with the Dor Yeshorim carrier-screening row and passed. Essay 0's
+"never false" row now admits both blind spots — unregistered quotations and semantically
+irrelevant receipts — and neither gate can tell a true sentence from a well-formed one.
