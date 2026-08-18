@@ -671,3 +671,45 @@ and amend the contract explicitly if the angle narrows scope; and note two corpu
 `corpus.py` strips bracketed insertions, so **translator's notes are unquotable** (this caught
 an attempt to quote note 5's "And also in 1974"), and a quotation spanning a page break must be
 filed under the first page.
+
+**2026-08-18 — panel round 1 (essay 1) applied; both negatives withdrawn, contract covered.**
+The most damaging review of the run, and right. **Both of essay 1's negatives were manufactured
+by the book's own characteristic error.** (1) The fusion MISS: "Current estimates situate the
+production of the microfusion cell in the 1990s, or even later" (p. 28) is Lem *reporting a
+contemporary consensus*, not forecasting — the AGENT rule "a thing being reported is not the
+thing being true" is one I wrote and then violated — "or even later" sets no terminal bound, and
+MISS requires no live path while ITER is live. Row → OPEN. (2) The completeness RIGHT QUESTION,
+WRONG ANSWER debited him for a taxonomy he never claimed: immediately before the list he writes
+that there are "an infinite variety of reasons" and that he will give "several such mistakes
+that are particularly displeasing to the artist" (p. 28). Row deleted; the "impressive
+successor" idea survives only as prose, labelled as this essay's.
+
+**Third contract breach** (§6 wanted Tetlock, prediction markets, AI timelines, EA/x-risk, and
+the question whether futurology became a discipline or gadget astrology). Now covered, and it
+supplied the honest negative: forecasting *did* become rigorous — Tetlock's 284 experts at
+chance, then IARPA-trained forecasters ~30% better than classified analysts — but rigorous about
+calibration on questions that resolve, while the consequences Lem wanted studied still cannot be
+scored, and estimates on the technology nearest his subject moved thirteen years in twelve
+months (Grace et al. 2024). RIGHT QUESTION, WRONG ANSWER.
+
+**Three imported examples contradicted essays revised later** — the SETI cost claim (essay 3 now
+scores it OPEN, not "wrong by two orders of magnitude"), heredity ("his machine screens partners"
+suppressed Dor Yeshorim, which essay 8 scores HIT), and executable formalism (essay 7 was
+revised to remove exactly that reading). All corrected. **Cross-essay consistency is now a known
+failure mode: revising one essay can falsify a claim in another.**
+
+Also fixed: "four paragraphs after mocking Blackett" was false — one paragraph spanning pp.
+27–28, and the fusion sentence comes *before* the list, so essay 0's version was doubly wrong
+and is corrected; the sick-man quote is entirely on p. 29 and begins "To a certain degree", with
+Lem calling the comparison "rather shortsighted" two sentences later, all now included; the
+waste claim is receipted (Onkalo still awaiting its operating licence as of August 2026).
+
+**A gate weakness worth recording:** essay 1's row for "Then he will make use of it" had been
+filed at p. 15, where Zylinska quotes the line in her introduction, so the gate passed against
+the wrong occurrence while the real one at p. 26 went unregistered. The quote-row generator now
+prefers a page inside the essay's own chapter range, which raised essay 1 from 17 rows to 35.
+
+**The census moved and essay 0 was stale.** Rebuilding essays 1, 2 and 3 changed the totals
+after essay 0 first quoted them. Current, computed not typed: **85 rows grading Lem — 37 OPEN,
+26 HIT, 11 RQWA, 4 EARLY, 4 MISS, 3 RAWR — plus 8 method rows in essay 0. DISSOLVED still
+unused in all 93.** Essay 0 now dates its figures and says they moved twice during writing.
