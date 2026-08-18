@@ -1,0 +1,23 @@
+# essay	source key (resources/text/<key>.txt)	exact string
+#
+# Quotations from scholarship about Lem, not from Lem. The Lem quote gate checks a fixed
+# edition of one book and is blind to these; without this file they would ship ungated.
+# Sources are in copyright and are not redistributed: if the text is absent locally the
+# row is skipped rather than failed, so a fresh clone still passes.
+9	swirski-cassandra-2022	Should Lem be read, not to say revered, as a futurologist?
+9	swirski-cassandra-2022	in any proper—which is to say scientific—understanding of the term, the answer has to be No
+9	swirski-cassandra-2022	more than in predicting the future he has always been more interested in mapping the conceptual limits of science and its technological offshoots
+9	swirski-cassandra-2022	Heads I win, tails you lose
+9	swirski-cassandra-2022	he is not above cherry-picking his fiction for predictive hits
+9	swirski-cassandra-2022	Some fans even keep score cards, with check marks next to the fulfilled prognoses and question marks next to the perceived flops
+9	swirski-cassandra-2022	the adaptive morphology of the human brain, biocomputing, and autonomous search engines
+9	swirski-cassandra-2022	ariadnology: the science of threads
+9	swirski-cassandra-2022	his specific forecasts—whether in Summa or in his science-driven fiction—could never amount to more than provisional signposts
+9	swirski-cassandra-2022	This is not to deny that Summa is remarkably savvy in some of its deliberations
+9	swirski-art-and-science-2006	Summa technologiae
+9	swirski-art-and-science-2006	Some read the book as a list of predictions and keep little score cards, where they note the fulfilled prophecies as well as the perceived failures
+9	swirski-art-and-science-2006	Nevertheless, this is a misunderstanding
+9	swirski-art-and-science-2006	Summa is not a prognostication almanac, and its author is not Nostradamus or Jules Verne
+9	swirski-art-and-science-2006	The aim of Summa was not to predict particular gadgets but rather to explore the conceptual foundations of the two evolutions and their
+9	swirski-art-and-science-2006	relations to society and civilization
+9	swirski-art-and-science-2006	Individual predictions that have come true are rather byproducts of Lem's creative thinking

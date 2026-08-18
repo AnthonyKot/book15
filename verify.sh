@@ -2,6 +2,7 @@
 # Book 15 — standing verification. Run from anywhere: ./verify.sh [essay-no] [--structure] [--strict]
 #
 #   checks/quotes.py     every Lem quotation is on its cited page        GATING
+#   checks/secondary.py  scholarship quoted about Lem is in its source        GATING (skips absent sources)
 #   checks/claims.py     every 2026 claim marker has a row, and back     GATING (open rows: advisory)
 #   internal links       entirely inside this repo                       GATING
 #   count sync           contents page vs chapters on disk               GATING
@@ -20,6 +21,8 @@ for a in "$@"; do case "$a" in --structure) STRUCT=1;; --strict) STRICT=--strict
 
 echo "== Lem quotations vs corpus (gating) =="
 python3 checks/quotes.py $FILTER || fail=1
+echo "== secondary-source quotations vs their sources (gating) =="
+python3 checks/secondary.py || fail=1
 echo "== 2026 claim markers vs register (gating) =="
 python3 checks/claims.py || fail=1
 echo "== count sync (computed, not typed) =="

@@ -7,6 +7,8 @@ TXT = os.path.join(HERE, "..", "resources", "text", "summa.txt")
 def norm(s):
     s = s.replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"')
     s = s.replace("—", " ").replace("–", " ").replace("­", "")
+    for lig, plain in (("ﬁ", "fi"), ("ﬂ", "fl"), ("ﬀ", "ff"), ("ﬃ", "ffi"), ("ﬄ", "ffl")):
+        s = s.replace(lig, plain)   # PDF ligatures: some extractions keep them, some don't
     s = re.sub(r"-\s*\n\s*", "", s)          # rejoin hyphenated line breaks
     s = re.sub(r"\[[^\]]*\]", "", s)           # drop editorial [insertions]
     s = re.sub(r"(?<=[A-Za-z,.;:!?)])\d{1,2}(?=\s|$|[.,;:])", "", s)  # footnote superscripts

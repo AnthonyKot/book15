@@ -61,7 +61,7 @@ scale as the route to competence — recorded in prose, not manufactured into a 
 | 6 | 6 Phantomology (197–236) | Can you tell? | VR's plateau; simulation argument; deepfakes; BCI |
 | 7 | 7 The Creation of Worlds (237–293) | Information farming, at last | AI-for-science, automated discovery; linguistic engineering |
 | 8 | 8 A Lampoon of Evolution (294–353) | The invisible path | matchmaking + embryo screening; He Jiankui; longevity; cyborgs |
-| 9 | 9 Art and Technology (PL/RU only) | The generated image | generative art, music, text — corpus gap, see §2 |
+| 9 | **replaced — see §8, 2026-08-18** | The Cassandra syndrome | the case against reading Lem as a futurologist, tested against this book's ledgers |
 
 Order = Lem's order. Essay 0 sets the scoring rules and is written *last* (it must
 report the pattern of the other nine, not predict it).
@@ -748,3 +748,57 @@ verifies that a marker has a row, not that the row supports the sentence. The dr
 claim about review rounds with the Dor Yeshorim carrier-screening row and passed. Essay 0's
 "never false" row now admits both blind spots — unregistered quotations and semantically
 irrelevant receipts — and neither gate can tell a true sentence from a well-formed one.
+
+**2026-08-18 — §6 amended: essay 9 no longer covers ch. 9.** Chapter 9 "Art and Technology" is
+absent from the 2013 translation and no Polish/Russian text was supplied; the user chose to
+replace the slot rather than leave it open. Essay 9 is now **"The Cassandra syndrome"** (angle
+9-A of `drafts/09.pitches.md`): the strongest scholarly case against this book's whole
+enterprise, tested against the book's own ledgers. Recording the amendment here before drafting,
+per the rule added after essays 2 and 3 were both blocked for drafting outside the contract.
+
+Two secondary sources were supplied and are now in `resources/` (gitignored, in copyright):
+Peter Swirski, "The Cassandra Syndrome, or How Not to Be a Prophet", *Filozofia i Nauka* 10
+(2022); and Swirski (ed.), *The Art and Science of Stanislaw Lem* (McGill-Queen's, 2006), whose
+ch. 5 is Peter Butko's "Summa technologiae – Looking Back and Ahead" — the source Zylinska
+quotes on Summa as "a work in progress".
+
+**New gate: `checks/secondary.py` + `checks/secondary.tsv`, wired into verify.sh.** The Lem quote
+gate checks one fixed edition of one book and is structurally blind to quotations from
+scholarship; without this, every Swirski and Butko quotation in essay 9 would ship ungated,
+which is the same class of hole essay 0 records. Rows whose source text is not present locally
+are skipped rather than failed, so a fresh clone without the copyrighted PDFs still passes.
+
+**2026-08-18 — essay 9 drafted, "The Cassandra syndrome". The book is complete: ten of ten.**
+Angle 9-A. The essay takes the strongest scholarly case against the whole enterprise and tests
+it against the ledgers. Two scholars close to Lem reach the same objection independently.
+Swirski (2022): "Should Lem be read, not to say revered, as a futurologist?… in any proper—which
+is to say scientific—understanding of the term, the answer has to be No", with Lem's own words
+from their 1992 interviews — "more than in predicting the future he has always been more
+interested in mapping the conceptual limits of science and its technological offshoots". Butko
+(2006), six years earlier and from a biophysicist: readers who "keep little score cards" are
+committing "a misunderstanding", because *Summa* "is not a prognostication almanac" and
+"Individual predictions that have come true are rather byproducts of Lem's creative thinking."
+
+**The ledgers support them, and more precisely than either argues.** 22% HIT at object level
+against 43% at problem level, with every MISS at object level, is the numeric form of "he was
+mapping conceptual limits, not predicting". Scored HIT. But the unfalsifiability charge — "Heads
+I win, tails you lose" — fails against this corpus: four object-level rows were falsified
+outright *because* they were specific, and the reason there are only four is that most rows are
+undecidable (37 OPEN), which is a different failing. RIGHT QUESTION, WRONG ANSWER.
+
+**The two scorecards collide once and the author loses.** Lem claimed autonomous search engines
+among his successes, calling them "ariadnology" — but the note that coins the word is the note
+essay 7 scored a MISS, because in it he rules out a machine librarian "based on frequency
+analysis" and calls algorithmic selection "worthless" (p. 367), the year citation indexing
+launched. He named the need and got the mechanism backwards, then claimed the need as a hit.
+RIGHT ANSWER, WRONG REASON. That partially closes essay 0's OPEN row on whether an outside
+verdict beats the author's own.
+
+**New infrastructure: `checks/secondary.py` + `checks/secondary.tsv`, gating in verify.sh.**
+Quotations from scholarship are invisible to the Lem gate, so 17 Swirski/Butko quotations are now
+checked against their own source texts. It caught two on its first run — one ligature mismatch
+(`fulﬁlled`) and one quotation spanning a page break — so `scripts/corpus.py` now normalises PDF
+ligatures. Sources live in `resources/` and are gitignored; absent sources are skipped, not
+failed, so a fresh clone still passes. **Still open and now sharper:** Butko notes that "Thirty
+Years Later" exists in English in Swirski's *A Stanislaw Lem Reader* (1997) — that text would
+let the two scorecards be compared line by line rather than at one point.
