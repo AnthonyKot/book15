@@ -802,3 +802,44 @@ ligatures. Sources live in `resources/` and are gitignored; absent sources are s
 failed, so a fresh clone still passes. **Still open and now sharper:** Butko notes that "Thirty
 Years Later" exists in English in Swirski's *A Stanislaw Lem Reader* (1997) — that text would
 let the two scorecards be compared line by line rather than at one point.
+
+**2026-08-18 — panel round 1 (essay 9) applied; the book's headline finding qualified.** BLOCK,
+and it reached back into essays 0 and 2.
+
+**The headline result is partly an artefact of the vocabulary, and essay 0 now says so.** "No
+MISSes at problem level" looked like a fact about Lem. It is largely a fact about the scoring
+scheme: MISS is defined as did-not-happen-with-no-live-path, while a problem-level row grades a
+live dilemma whose wrong resolution routes to RIGHT QUESTION, WRONG ANSWER by construction, so
+the category is close to unreachable there. Counting negatives properly (MISS + RQWA) the layers
+are level — 8/49 = 16% at object level against 6/35 = 17% at problem level. What survives is
+narrower and still worth having: **Lem earns twice the plain-HIT rate on problems (43%) as on
+devices (22%), and fails at about the same rate on both.** Both essay 0 and essay 9 now state it
+that way.
+
+**Essay 2's second MISS is withdrawn**, which is why the census moved again. p. 43 says technical
+evolution "*has so far been* moving" toward specialised devices — a description of the record to
+date, not a forecast, and a description of the past cannot be falsified by the future. GPT-3 also
+cannot receipt a claimed reversal in the direction of technical evolution as a whole. The
+observation is folded into the adjacent RIGHT ANSWER, WRONG REASON row. **Census now: 84 Lem
+rows — 37 OPEN, 26 HIT, 11 RQWA, 4 EARLY, 3 MISS, 3 RAWR.** Also corrected in essay 0: the OPEN
+rows are not where one would guess — 23 of 37 sit at object level.
+
+**Essay 9's own errors, all confirmed:** the sentence about "mapping the conceptual limits of
+science" was presented as Lem's own words from a 1992 interview; it is Swirski's third-person
+report, the interviews are in *A Stanislaw Lem Reader* which is not held here, and the essay now
+says so. "Heads I win, tails you lose" was turned into a charge about Summa; it closes Swirski's
+own parody forecast, and the real charge — that scientific futurology needs unequivocal
+predictions on reasonable timelines — is now stated instead. The closing paragraph claimed
+problem-level rows "cannot be checked", the reverse of the truth (21 of 35 carry a verdict,
+against 26 of 49 at object level). The ariadnology argument conflated Swirski's charge about
+Lem's *fiction* with later Lem's self-credit for *Summa*, and overstated essay 7, which leaves
+the full addressing librarian OPEN.
+
+**The ledger is now a declared meta-ledger.** It grades named scholars' claims, not paged Lem
+claims, so §4's unit of judgement does not apply and the essay says so; the two blocks are no
+longer disguised as object and problem layers. And it now does the job it was written for:
+running the critics' own credited examples through the ledgers. Swirski credits Lem with
+anticipating virtual reality and the SETI silence; essays 6 and 3 score both OPEN. Butko credits
+ariadnology as fulfilled; essay 7 scores its method a MISS. Gate coverage was also holed —
+essay 9 had only two registered Lem quotations and the opening's secondary quotations were
+unregistered; both files are now complete.
