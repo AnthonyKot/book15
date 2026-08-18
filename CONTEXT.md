@@ -329,3 +329,35 @@ superseded:** the Author Correction of 2026-01-19 gives 36 compounds from 57 tar
 novelty and phase identification, not a demonstration of failure, and the essay now says so.
 New AGENT.md rule: read the chapter's endnotes before drafting. verify.sh PASS: 219 quotes,
 85 claims, 0 open; essay 7 at 3,200 words.
+
+**2026-08-18 — panel round 3 (essay 7) applied; ledger rebuilt.** Round 3 (`*.r3.md`,
+BLOCK, 15 findings) caught three real errors the earlier rounds had not. **(1) Two
+different information crises were conflated.** p. 251's crisis is about *representation* —
+a written score for embryogenesis would need formulae "in the realm of quadrillions. There
+would not be enough surface across all the oceans and the entire mainland for it" — not
+note 8's paper deluge. The RIGHT ANSWER, WRONG REASON row was wrong and is now a
+RIGHT QUESTION, WRONG ANSWER row on the substrate premise itself ("We need to represent
+processes with some other processes, not with formal signs", p. 263): what carried it was
+a formalism that *runs*, neither of the two options he posed. **(2) The Ashby account was
+wrong.** p. 261 says outright "Mathematicians are thus a generator of diversity, whereas
+empiricists are the selector postulated by Ashby", so formal generate-and-select is on his
+map; the essay's claim that it was "the road neither man drew" is deleted, as is the claim
+that comprehension was his objection to Ashby (it is his objection at p. 367). **(3) The
+chronology contradicted itself** across lede, ledger and closing — citation retrieval
+(1964) came first, automated truth loops (2009+) much later, and the machine he specified,
+"sending the right kinds of information to the right kinds of people", was never built.
+That is now stated once and consistently. Also: the p. 367 publication-criteria quote
+restored its "It seems that" hedge and its row is no longer paid by the unmet clause "any
+further research impossible"; the three note-8 rows moved to object level with one
+problem-level row for the general dilemma and a new OPEN on p. 365 ("Such a decision-making
+process must not be mechanized"); pp. 276–277 split so the HIT sits on p. 276's
+unconditional forecast and p. 277's conditional consequent is scored OPEN with p. 280; the
+combinatorial-wall row dropped entirely (image-manifold dimension never tested Lem's
+ceiling, and "his own arithmetic" grades no 2026 event) and `intrinsic-dimension-2021`
+retired from the register; TEMPLATE violations fixed (Still open 4→3 items, Reading 13→3
+modern sources); "The Engineering of Transcendence" (pp. 281–286) restored per the §6
+contract. **Rejected:** codex's claim that the 2026 *Nature* paper reports humans manually
+filtering outputs at each stage — the paper is paywalled and neither Sakana's post, the
+*Nature* news piece nor phys.org states it, so it is not receipted. Essay 7 is now closed
+to further review per the diminishing-returns rule. verify.sh PASS: 219 quotes, 84 claims,
+0 open; 3,198 words.
